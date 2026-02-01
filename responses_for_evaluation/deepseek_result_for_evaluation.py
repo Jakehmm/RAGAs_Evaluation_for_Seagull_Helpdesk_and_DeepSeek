@@ -1,9 +1,8 @@
 # !!! This file contains the DEEPSEEK chatbot results for evaluation purposes.
-# !!! There are three sets of results because the same set of questions were
-# !!! asked three times to observe any variations in the responses.
+# !!! There are 5 sets of results because the same set of questions were
+# !!! asked 5 times to observe any variations in the responses.
 # !!! The results are hardcoded here for easy access during evaluation.
 # !!! DO NOT MODIFY THE DATA AFTER GATHERING.
-# 111 is a placeholder only
 
 DEEPSEEK_RESULTS_1 = [
     {

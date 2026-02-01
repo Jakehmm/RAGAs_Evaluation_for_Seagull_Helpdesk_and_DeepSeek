@@ -1,7 +1,3 @@
-# Should write the results into a text file for record-keeping
-# Make this a function that accepts user_input, response, retrieved_contexts, reference as parameters
-# Then it can automatically print the results and write the evaluation results into a file
-
 from openai import AsyncOpenAI
 from ragas.llms import llm_factory
 from ragas.metrics.collections import FactualCorrectness, Faithfulness, AnswerRelevancy
@@ -9,8 +5,8 @@ from ragas.embeddings.base import embedding_factory
 import datetime
 from typing import List
 import time
-from seagull_result_for_evaluation import SEAGULL_RESULTS_1, SEAGULL_RESULTS_2, SEAGULL_RESULTS_3, SEAGULL_RESULTS_4, SEAGULL_RESULTS_5
-from deepseek_result_for_evaluation import DEEPSEEK_RESULTS_1, DEEPSEEK_RESULTS_2, DEEPSEEK_RESULTS_3, DEEPSEEK_RESULTS_4, DEEPSEEK_RESULTS_5
+from responses_for_evaluation.seagull_result_for_evaluation import SEAGULL_RESULTS_1, SEAGULL_RESULTS_2, SEAGULL_RESULTS_3, SEAGULL_RESULTS_4, SEAGULL_RESULTS_5
+from responses_for_evaluation.deepseek_result_for_evaluation import DEEPSEEK_RESULTS_1, DEEPSEEK_RESULTS_2, DEEPSEEK_RESULTS_3, DEEPSEEK_RESULTS_4, DEEPSEEK_RESULTS_5
 import os
 from dotenv import load_dotenv
 
@@ -107,7 +103,7 @@ def seagull_auto_ragas_evaluation(user_input: str, retrieved_contexts: List[str]
 
     try:
         # Change the number suffix of file name when start evaluating a new dataset
-        with open("seagull_ragas_evaluation_results_5.txt", "a", encoding="utf-8") as f:
+        with open("seagull_ragas_evaluation_results_1.txt", "a", encoding="utf-8") as f:
             f.write("===================================\n")
             f.write(f"Entry Number: {entry_number}\n")
             f.write(f"Testing Time: {testing_time}\n")
@@ -122,7 +118,7 @@ def seagull_auto_ragas_evaluation(user_input: str, retrieved_contexts: List[str]
             f.write(f"Factual Correctness Score: {fc_result.value}\n")
             f.write(f"Answer Relevancy Score: {ar_result.value}\n")
             f.write("===================================\n\n")
-        print("Evaluation results has been appended to seagull_ragas_evaluation_results_5.txt")
+        print("Evaluation results has been appended to seagull_ragas_evaluation_results_1.txt")
     except Exception as e:
         print(f"Failed to write evaluation results to file: {str(e)}")
     print("-----------------------------------")
@@ -191,7 +187,7 @@ def deepseek_auto_ragas_evaluation(user_input: str, response: str, reference: st
 
     try:
         # Change the number suffix of file name when start evaluating a new dataset
-        with open("deepseek_ragas_evaluation_results_5.txt", "a", encoding="utf-8") as f:
+        with open("deepseek_ragas_evaluation_results_1.txt", "a", encoding="utf-8") as f:
             f.write("===================================\n")
             f.write(f"Entry Number: {entry_number}\n")
             f.write(f"Testing Time: {testing_time}\n")
@@ -204,7 +200,7 @@ def deepseek_auto_ragas_evaluation(user_input: str, response: str, reference: st
             f.write(f"Factual Correctness Score: {fc_result.value}\n")
             f.write(f"Answer Relevancy Score: {ar_result.value}\n")
             f.write("===================================\n\n")
-        print("Evaluation results has been appended to deepseek_ragas_evaluation_results_5.txt")
+        print("Evaluation results has been appended to deepseek_ragas_evaluation_results_1.txt")
     except Exception as e:
         print(f"Failed to write evaluation results to file: {str(e)}")
     print("-----------------------------------")
@@ -212,7 +208,7 @@ def deepseek_auto_ragas_evaluation(user_input: str, response: str, reference: st
 
 def main():
     # Change the number suffix of the imported variable to evaluate a new dataset
-    for index, entry in enumerate(SEAGULL_RESULTS_5, start=1):
+    for index, entry in enumerate(SEAGULL_RESULTS_1[:1], start=1):
         seagull_auto_ragas_evaluation(
             user_input=entry["question"], 
             response=entry["response"], 
@@ -220,7 +216,7 @@ def main():
             reference=entry["reference_answer"],
             entry_number=index
         )
-    for index, entry in enumerate(DEEPSEEK_RESULTS_5, start=1):
+    for index, entry in enumerate(DEEPSEEK_RESULTS_1[:1], start=1):
         deepseek_auto_ragas_evaluation(
             user_input=entry["question"], 
             response=entry["response"], 

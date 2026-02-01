@@ -1,0 +1,1034 @@
+===================================
+Entry Number: 1
+Testing Time: 20260103_142122
+Time Used for Evaluation: 41.03 seconds
+-----------------------------------
+User Input: What is the main aim of education according to the school's philosophy?
+Response: The main aim of education at Philippine Cultural College is to nurture students into holistically developed individuals who are proud of their cultural heritage and committed to serving the nation and society.
+Reference Answer: The aim of education is to develop man so as to enable him to become a useful citizen who will contribute to the building of a just and humane society.
+-----------------------------------
+Factual Correctness Score: 0.0
+Answer Relevancy Score: 0.7300265478307614
+===================================
+
+===================================
+Entry Number: 2
+Testing Time: 20260103_142205
+Time Used for Evaluation: 57.61 seconds
+-----------------------------------
+User Input: Where does the school's educational philosophy draw its inspiration from?
+Response: Our school's educational philosophy is primarily inspired by the unique heritage and inherent Oriental worldview of the Chinese-Filipino community, as well as the dedicated contributions of generations of alumni, administrators, teachers, and the entire school community throughout our long history.
+Reference Answer: It is inspired by several intertwining factors: the unique heritage of the Chinese-Filipinos, their inherent oriental worldview, and the influence of many people—the alumni, administrators, teachers, service personnel, parents and students—who have dedicated their loyalty to the school.
+-----------------------------------
+Factual Correctness Score: 0.62
+Answer Relevancy Score: 0.9211527203947151
+===================================
+
+===================================
+Entry Number: 3
+Testing Time: 20260103_142304
+Time Used for Evaluation: 49.00 seconds
+-----------------------------------
+User Input: What is the mission of PCC?
+Response: The mission of Philippine Cultural College (PCC) is to form well-rounded Chinese-Filipino youth who are appreciative of their cultural heritage and responsive to the changing times. Specifically, the College Department is committed to producing graduates who are globally competitive, ethically and socially responsible professionals with integrity.
+Reference Answer: Formation of well-rounded Chinese-Filipino youth appreciative of their cultural heritage and responsive to the changing times.
+-----------------------------------
+Factual Correctness Score: 0.55
+Answer Relevancy Score: 0.7887602319116103
+===================================
+
+===================================
+Entry Number: 4
+Testing Time: 20260103_142355
+Time Used for Evaluation: 34.79 seconds
+-----------------------------------
+User Input: What does PCC stand for?
+Response: In the context of this school, PCC stands for **Philippian Cultural College**. While the acronym can mean many other things in different fields , it represents our institution here.
+Reference Answer: PCC stands for Philippine Cultural College.
+-----------------------------------
+Factual Correctness Score: 0.4
+Answer Relevancy Score: 0.8055979973728792
+===================================
+
+===================================
+Entry Number: 5
+Testing Time: 20260103_142431
+Time Used for Evaluation: 34.66 seconds
+-----------------------------------
+User Input: When was PCC originally established?
+Response: Philippine Cultural College was originally established on **June 27, 1923**. It was founded as the Philippine Chinese High School, making it the first and oldest Chinese-Filipino secondary school in the Philippines.
+Reference Answer: Our school was established in 1923.
+-----------------------------------
+Factual Correctness Score: 0.0
+Answer Relevancy Score: 0.5879795011096296
+===================================
+
+===================================
+Entry Number: 6
+Testing Time: 20260103_142507
+Time Used for Evaluation: 40.31 seconds
+-----------------------------------
+User Input: Where was the Annex campus constructed?
+Response: The Annex campus of Philippine Cultural College was constructed in **Caloocan City**. Specifically, it is located at **175 8th Avenue Extension, Grace Park, Caloocan City**. The property for this campus was purchased in 1961, and classes began there in June 1967.
+Reference Answer: In 1967, an Annex campus was constructed in Caloocan City.
+-----------------------------------
+Factual Correctness Score: 0.33
+Answer Relevancy Score: 0.7687397089702066
+===================================
+
+===================================
+Entry Number: 7
+Testing Time: 20260103_142549
+Time Used for Evaluation: 38.44 seconds
+-----------------------------------
+User Input: When did the school open its college department and become PCC?
+Response: The school began offering college education during the **School Year 2008-2009**. The institution's name was officially changed from Philippine Cultural High School to **Philippine Cultural College, Inc.** on **July 10, 2007**, when it amended its Articles of Incorporation.
+Reference Answer: On the same year (2008), the school opened its college and changed its name to Philippine Cultural College (PCC).
+-----------------------------------
+Factual Correctness Score: 0.4
+Answer Relevancy Score: 0.7526369674523469
+===================================
+
+===================================
+Entry Number: 8
+Testing Time: 20260103_142629
+Time Used for Evaluation: 41.06 seconds
+-----------------------------------
+User Input: What was the school awarded in 2009 for its work in Chinese language curricular reform?
+Response: For its work in Chinese language curricular reform, the school's principal Mr. Emilio Gan was awarded the "**Chinese Language and Culture Friendship Award**" by the Ministry of Education of the People's Republic of China in 2009.
+Reference Answer: In 2009, it was awarded the title 'Chinese Language Demonstration School' by the Overseas Chinese Affairs Office of the State Council of the People's Republic of China.
+-----------------------------------
+Factual Correctness Score: 0.0
+Answer Relevancy Score: 0.623026427310283
+===================================
+
+===================================
+Entry Number: 9
+Testing Time: 20260103_142712
+Time Used for Evaluation: 58.40 seconds
+-----------------------------------
+User Input: What is the main goal of the PCC Kindergarten?
+Response: The main goal of the PCC Kindergarten Department is the **total development of pre-school children into productive, independent, and confident learners who are aware of their cultural heritage**. This is achieved by developing a love for learning within a child-centered environment that encourages exploration and creativity.
+Reference Answer: PCC Kinder Department aims for the total development of pre-school children into productive, independent and confident learners aware of their cultural heritage.
+-----------------------------------
+Factual Correctness Score: 0.71
+Answer Relevancy Score: 0.9217181801831877
+===================================
+
+===================================
+Entry Number: 10
+Testing Time: 20260103_142812
+Time Used for Evaluation: 62.92 seconds
+-----------------------------------
+User Input: What are the core values the College Department aims to inculcate?
+Response: The College Department aims to inculcate the core values of **diligence, honesty, integrity, respect, courage, compassion, and equality**. These values are integral to its mission of forming globally competitive and ethically responsible professionals who are proud of their Chinese-Filipino heritage.
+Reference Answer: The College Department aims to inculcate core values such as diligence, honesty, integrity, respect, courage, compassion and equality.
+-----------------------------------
+Factual Correctness Score: 0.82
+Answer Relevancy Score: 0.9963112219617068
+===================================
+
+===================================
+Entry Number: 11
+Testing Time: 20260103_142917
+Time Used for Evaluation: 50.80 seconds
+-----------------------------------
+User Input: When does the school year usually start and end?
+Response: The school year at Philippine Cultural College typically begins in **early June** and ends in **late March or early April** of the following year.
+
+The start and end dates can vary slightly between academic levels and campuses. For example, classes for the College Department have started as early as June 9, while the Caloocan Annex Campus (for basic education) has started classes around June 10-13. The school year concludes with graduation ceremonies typically held in March.
+
+Please note that these dates are based on past academic calendars and are subject to change. For the exact and official schedule for the current or upcoming school year, it is best to consult the latest academic calendar published by the school administration or visit the official Philippine Cultural College website.
+
+I am here if you have any other questions about the school.
+Reference Answer: The school year starts in June and ends in March.
+-----------------------------------
+Factual Correctness Score: 0.0
+Answer Relevancy Score: 0.6391530185494886
+===================================
+
+===================================
+Entry Number: 12
+Testing Time: 20260103_143009
+Time Used for Evaluation: 55.26 seconds
+-----------------------------------
+User Input: What time do Senior High School (SHS) classes end?
+Response: The specific dismissal time for Senior High School classes at Philippine Cultural College is not available in the published documents I can access. The daily class schedule, including end times, can vary depending on the school year, campus location, and specific student track.
+
+### 🕰️ **Finding the Official Schedule**
+To get the most accurate and current information, you can:
+*   **Check Official School Publications**: Look for the latest **School Handbook** or the official **Academic Calendar**, which may be posted on the school's website or distributed at the beginning of the school year.
+*   **Contact the School Administration**: The Senior High School Office or the Registrar's Office at your specific campus (such as the Caloocan Annex) will have the definitive daily bell schedule.
+*   **Ask Your Teachers or Advisers**: They can provide you with the official schedule for your specific grade level and section.
+
+If you need assistance finding contact details for the administration offices, please let me know.
+Reference Answer: Senior High School (SHS) class hours are 07:15 a.m. – 04:30 p.m.
+-----------------------------------
+Factual Correctness Score: 0.0
+Answer Relevancy Score: 0.0
+===================================
+
+===================================
+Entry Number: 13
+Testing Time: 20260103_143106
+Time Used for Evaluation: 71.48 seconds
+-----------------------------------
+User Input: What happens if a student exceeds 20% absences in a school year?
+Response: The specific consequences for exceeding a 20% absence rate at Philippine Cultural College are not detailed in the current accessible policy documents. However, based on general educational principles in the Philippines, a student in this situation would typically face a serious academic penalty, such as being in danger of **failing a course or being ineligible for promotion**.
+
+### 📜 **General Policy Framework and Your Rights**
+Schools in the Philippines have the authority to set attendance rules, but they must be reasonable and follow due process. Key points that usually apply include:
+*   **Written Policy**: The exact rule, including how "20% absences" is calculated (total days, per subject, etc.), should be clearly stated in the official **Student Handbook**.
+*   **Excused vs. Unexcused**: The policy should differentiate between excused absences (e.g., due to illness with a medical certificate, family emergencies, calamities) and unexcused absences (truancy). Penalties typically apply more strictly to unexcused absences.
+*   **Due Process**: Before any major sanction like course failure, the school should generally provide notice and an opportunity for the student or parents to explain the circumstances.
+
+### 🔍 **How to Find the Official Answer**
+To get the definitive answer for PCC, you should:
+1.  **Consult the Student Handbook**: This is the primary source for all academic and disciplinary policies.
+2.  **Speak with the Class Adviser or Year Level Coordinator**: They can provide direct guidance on how the policy is applied to your specific situation and clarify any steps for appeal or remediation.
+3.  **Contact the School's Registrar or Principal's Office**: These offices can give the most authoritative interpretation of the official school policy.
+
+If you need help locating the Student Handbook or contact details for the relevant offices, I can assist with that.
+Reference Answer: A pupil / student, who has exceeded the allowed number of absences, will be automatically dropped from the roll.
+-----------------------------------
+Factual Correctness Score: 0.0
+Answer Relevancy Score: 0.0
+===================================
+
+===================================
+Entry Number: 14
+Testing Time: 20260103_143219
+Time Used for Evaluation: 58.06 seconds
+-----------------------------------
+User Input: When is an absence considered excused or unexcused?
+Response: According to general principles of Philippine education, an absence is typically considered **excused** for legitimate reasons such as illness, family emergencies, participation in school-approved activities, or observance of religious obligations. An absence is generally considered **unexcused** if it does not fall under these recognized categories, such as in cases of truancy or without a valid reason.
+
+To know the official and complete criteria that specifically apply at Philippine Cultural College, you should consult the **Student Handbook** and confirm with your **Class Adviser**. The handbook contains the definitive list of what the school administration accepts as excused and the proper procedures for notification.
+Reference Answer: After submission of the excuse letter, the Discipline Office shall determine whether the absence is excused or not.
+-----------------------------------
+Factual Correctness Score: 0.0
+Answer Relevancy Score: 0.7771448848334478
+===================================
+
+===================================
+Entry Number: 15
+Testing Time: 20260103_143319
+Time Used for Evaluation: 45.52 seconds
+-----------------------------------
+User Input: What is the passing grade for report cards?
+Response: In the Philippines' K-12 education system, the passing grade for report cards is generally **75**. However, the specific grading policies for Philippine Cultural College are not detailed in the available search results.
+
+### 🎓 **Understanding the Standard**
+The 75 passing mark is set by the Department of Education (DepEd). A Final Grade of at least 75 in all learning areas is required for a student to be promoted to the next grade level. This grade appears on the report card after a specific transmutation process.
+
+### ✅ **How to Find PCC's Official Policy**
+To confirm the official passing grade for your specific year level and program at PCC, please consult the **official Philippine Cultural College Student Handbook**. You can also contact the school's **Registrar's Office** or your **Year Level Adviser** for the most accurate information.
+
+If you need assistance finding the handbook or contact details for the Registrar's Office, I can help you with that.
+Reference Answer: The passing grade in the report card is 75%.
+-----------------------------------
+Factual Correctness Score: 0.0
+Answer Relevancy Score: 0.7826139847707009
+===================================
+
+===================================
+Entry Number: 16
+Testing Time: 20260103_143406
+Time Used for Evaluation: 72.28 seconds
+-----------------------------------
+User Input: When are Grade School and Junior High School parents expected to come to school to receive report cards?
+Response: Based on historical calendars, report cards were typically distributed on specific dates, and separate parent-teacher conferences were also scheduled. Please note the following is from an older academic year and is subject to change.
+
+### 📅 **Report Card and Conference Dates**
+For the School Year 2019-2020 at the Caloocan Campus, the key events were:
+*   **Report Card Distribution**: The general distribution of report cards for Grades 1-12 was held on **November 6, 2019**.
+*   **Parent-Teacher Conference**: A designated conference day for all parents was held on **February 1, 2020**.
+
+### 🔍 **Finding the Current Schedule**
+The official schedule for the current school year will be detailed in the latest **Academic Calendar**. You can find this document by:
+*   Visiting the official **Philippine Cultural College website**.
+*   Checking announcements from the **Grade School** or **Junior High School offices**.
+*   Referring to official letters or updates from your child's **class adviser**.
+
+I recommend confirming the exact dates and times through these official channels to ensure you have the correct information for this year. If you need help locating these resources, please let me know.
+Reference Answer: After the First and Third Grading Periods (GS & JHS); mid-term (SHS), parents / guardians are expected to come to school for the distribution of report cards and the Parent-Teacher Conference (PTC).
+-----------------------------------
+Factual Correctness Score: 0.0
+Answer Relevancy Score: 0.5995553859885902
+===================================
+
+===================================
+Entry Number: 17
+Testing Time: 20260103_143520
+Time Used for Evaluation: 57.80 seconds
+-----------------------------------
+User Input: When is the schedule for Quarterly Assessment/Midterm & Final Exams announced?
+Response: The official schedule for Quarterly Assessments and exams at Philippine Cultural College is announced through the school's **Academic Calendar** and specific notices at the start of each semester.
+
+### 📅 How Exam Schedules Are Announced
+Based on standard practice, students and parents can find exam schedules through these official sources:
+
+*   **Annual Academic Calendar**: The complete school calendar, including examination weeks, is published on the official PCC website at the beginning of the school year. For example, past calendars show a clear pattern with exam weeks like the "1st English Quarterly Assessment" in August and final exams in March.
+*   **Semester-Specific Announcements**: Teachers and class advisers provide detailed exam timetables and room assignments closer to the actual exam period, which is the standard practice.
+*   **Official School Channels**: Notices are posted on official bulletin boards and announced through school communication platforms.
+
+To access the current calendar for the 2025-2026 school year, which begins on June 18, 2025, please visit the PCC website or contact your department office directly for the most up-to-date schedule.
+
+If you need help locating the calendar online or have other questions about the academic schedule, feel free to ask.
+Reference Answer: The schedule of Quarterly Assessment/Midterm & Final Exams will be announced at least one (1) week before the actual exam date.
+-----------------------------------
+Factual Correctness Score: 0.0
+Answer Relevancy Score: 0.7244864541682482
+===================================
+
+===================================
+Entry Number: 18
+Testing Time: 20260103_143620
+Time Used for Evaluation: 62.30 seconds
+-----------------------------------
+User Input: What is the consequence if a pupil is involved in cheating during an exam?
+Response: As an assistant for Philippine Cultural College (PCC), I cannot provide the specific details regarding the consequences for cheating during an exam from the information currently available in search results.
+
+The official policies are contained within the school's **Student Handbook** and are determined on a case-by-case basis by the school administration.
+
+### 📘 **How to Find the Official Policy**
+To get the definitive answer, you should:
+*   **Consult the Student Handbook**: This is the primary and official document for all academic and disciplinary regulations, including the specific rules and penalties for academic dishonesty.
+*   **Contact the Principal's Office or the Discipline Office**: They can explain the official procedures and the range of potential disciplinary actions, which may include academic penalties and behavioral sanctions.
+
+If you need help locating a digital copy of the Student Handbook or the contact details for the relevant offices, please let me know.
+Reference Answer: A pupil / student, who is involved in cheating, shall automatically receive the lowest possible grade for that particular test. In addition, he / she shall be given a major offense notice and a conduct grade deduction.
+-----------------------------------
+Factual Correctness Score: 0.2
+Answer Relevancy Score: 0.0
+===================================
+
+===================================
+Entry Number: 19
+Testing Time: 20260103_143724
+Time Used for Evaluation: 58.82 seconds
+-----------------------------------
+User Input: What happens to the PE grades of students in the Dance Troupe or Choir?
+Response: Based on the available information, the official policy of Philippine Cultural College (PCC) regarding whether participation in the Dance Troupe or Choir directly affects a student's PE grade is not detailed in the accessible search results.
+
+However, these extracurricular activities are clearly aligned with PCC's broader educational goals of appreciating and strengthening Chinese-Filipino cultural heritage.
+
+### 🔍 How to Find the Official Answer
+To get a definitive answer for your specific situation, I recommend you take these steps:
+
+1.  **Consult the Student Handbook**: This is the primary document for all academic policies, including rules on extracurricular participation and credit.
+2.  **Speak with the Faculty Adviser**: The teacher in charge of the **Dance Troupe or Choir** will know if there is a formal arrangement with the PE Department for credit or grade considerations.
+3.  **Contact the PE Department or Registrar's Office**: These administrative offices can provide the official school policy on whether performance in co-curricular activities can be counted toward academic grades.
+
+If you would like me to help you find the contact information for these specific school offices, please let me know.
+Reference Answer: Varsity performers (Dance Troupes, Glee Club/Choir, Chinese Orchestra, Theater Guild) will be exempted from their PE classes. Their PE grades will be provided by their respective instructors and/or coaches.
+-----------------------------------
+Factual Correctness Score: 0.0
+Answer Relevancy Score: 0.0
+===================================
+
+===================================
+Entry Number: 20
+Testing Time: 20260103_143824
+Time Used for Evaluation: 53.37 seconds
+-----------------------------------
+User Input: What incentive do non-academic contest winners receive?
+Response: Based on available information, winners of non-academic contests at Philippine Cultural College (PCC) receive official **awards and public recognition** for their achievements, but specific incentives like cash prizes are not detailed in these records.
+
+Here is what can be confirmed from recent school contests:
+*   **Hong Kong International Science Olympiad (2023):** Student winners from the Caloocan campus received **Gold, Silver, and Bronze Medals**, with the school also earning recognition as a Top Performing School.
+*   **Chinese Singing Contest (2021):** Winners in grade school and high school divisions were awarded placements such as **First Place, Second Place, Gold Award, and Silver Award**, along with Honorable Mentions.
+
+For information on other potential incentives, such as extra credit or prizes, please consult the school's official **Student Handbook** or speak directly with the **faculty adviser** organizing the specific contest.
+Reference Answer: All non-academic winners will be given additional point/s in Conduct.
+-----------------------------------
+Factual Correctness Score: 0.0
+Answer Relevancy Score: 0.7984146431746448
+===================================
+
+===================================
+Entry Number: 21
+Testing Time: 20260103_143919
+Time Used for Evaluation: 44.19 seconds
+-----------------------------------
+User Input: When does a Grade School or Junior High School student need to take remedial classes?
+Response: Based on the information available in the search results, the specific policy regarding when Grade School or Junior High School students at Philippine Cultural College (PCC) need to take remedial classes is not provided.
+
+For the official policy, I recommend you consult the school's **Student Handbook**. This document details all academic and disciplinary regulations. Additionally, you can speak directly with your child's **class adviser** or contact the **Grade School or Junior High School Principal's Office** for the most accurate and up-to-date information on academic support requirements.
+
+Is there another aspect of the school's policies or calendar I can help you with?
+Reference Answer: Students who obtain 1 or 2 failing grades in any subject areas will be required to take remedial classes.
+-----------------------------------
+Factual Correctness Score: 0.0
+Answer Relevancy Score: 0.0
+===================================
+
+===================================
+Entry Number: 22
+Testing Time: 20260103_144005
+Time Used for Evaluation: 49.51 seconds
+-----------------------------------
+User Input: What uniform do students wear on scheduled Physical Education days?
+Response: The specific uniform for Physical Education days at Philippine Cultural College is not detailed in the publicly available information. The official policy would be contained in the school's **Student Handbook**.
+
+### 🔍 How to Find the Official Answer
+To get the definitive and current guidelines, you can:
+1.  **Consult the Student Handbook**: This is the primary source for all school rules, including the complete dress code and uniform specifications.
+2.  **Check the Official School Website**: The PCC website may have a section for students or announcements that contains uniform details .
+3.  **Contact the School Administration**: The **Principal's Office** or the **Student Affairs Office** at your specific campus can provide the official requirements.
+4.  **Ask Your PE Teacher or Class Adviser**: They have the most direct and up-to-date information regarding the required attire for your class.
+
+If you need assistance locating the Student Handbook online or finding the contact details for the relevant school offices, please let me know, and I will be glad to help.
+Reference Answer: Pupils / Students are required to wear their P.E. uniforms during their scheduled P.E. days.
+-----------------------------------
+Factual Correctness Score: 0.0
+Answer Relevancy Score: 0.0
+===================================
+
+===================================
+Entry Number: 23
+Testing Time: 20260103_144056
+Time Used for Evaluation: 81.12 seconds
+-----------------------------------
+User Input: What is the dress code for parents when entering the school campus?
+Response: For parents and other campus visitors, Philippine Cultural College (PCC) provides guest dress guidelines on its official website to help you dress appropriately for the occasion and location you are visiting . The school's general goal is to encourage modesty and appropriateness so you feel comfortable during your visit .
+
+Here is a summary of the guidelines:
+
+**For Men:**
+*   **Classes or Chapel:** Casual pants and shirts are appropriate .
+*   **Walking around campus or the Sports Center:** Casual shirts and shorts (such as basketball or cargo styles) are acceptable .
+
+**For Women:**
+*   **Classes, Chapel, or Church:** Dresses or casual skirts (knee-length) and shirts are appropriate. The guidelines note that pants or jeans are not preferred for these areas .
+*   **Around campus after 5:00 PM or at the Sports Center:** Casual shirts with walking shorts (extending to the kneecap), loose-fitting jeans, slacks, or capris are acceptable .
+
+**Special Notes:**
+*   The guidelines also specify attire for certain activities. For example, pants are required for rock climbing, and conservative swimwear is needed for the water park .
+*   For the most comprehensive rules, you can also refer to the official **PCC Student Handbook** .
+
+I hope this information helps you plan your visit to the campus. If you have other questions about school policies or events, feel free to ask.
+Reference Answer: Parents are required to wear proper attire as prescribed by the school when entering the campus. Shorts, undershirts, slippers, sleeveless shirts/spaghetti straps are strictly prohibited inside the school campus.
+-----------------------------------
+Factual Correctness Score: 0.0
+Answer Relevancy Score: 0.6981740143353625
+===================================
+
+===================================
+Entry Number: 24
+Testing Time: 20260103_144219
+Time Used for Evaluation: 64.19 seconds
+-----------------------------------
+User Input: When can parents or visitors see their children during class hours?
+Response: I don't have the specific information regarding when parents or visitors can see their children during class hours at Philippine Cultural College.
+
+For detailed and official visitation procedures, please consult the **Student Handbook**, which contains all school policies. You can also contact the **Principal's Office** or your child's **Class Adviser** for direct guidance and to make proper arrangements with the school.
+
+I can help you find other general school information if needed.
+Reference Answer: Parents/Visitors are not allowed to see their children or any teacher during class hours without permission from the Vice President, and in his/her absence, the Head Disciplinarian.
+-----------------------------------
+Factual Correctness Score: 0.12
+Answer Relevancy Score: 0.0
+===================================
+
+===================================
+Entry Number: 25
+Testing Time: 20260103_144325
+Time Used for Evaluation: 51.68 seconds
+-----------------------------------
+User Input: What is the passing conduct grade?
+Response: The specific passing grade for conduct is not detailed in the public documents found in the search results. For the official policy, the **PCC Student Handbook** is the definitive source.
+
+### 📖 How to Find the Official Information
+To get the correct information, please refer to the official channels:
+
+*   **Review the Student Handbook**: The official handbook contains all grading policies, including those for conduct and behavior. The school's **official website** is the primary source for these documents .
+*   **Contact School Administration**: The **Registrar's Office** or your **Year-Level Adviser** can provide the most accurate and up-to-date requirements.
+*   **Understand General Context**: In many schools, conduct is often graded separately from academic subjects and assessed based on behavior, attendance, and participation. The passing mark may be a specific grade (e.g., "Satisfactory") or a minimum numeric score.
+
+If you need assistance finding the contact details for the Registrar's Office on the official PCC website, I can help you with that.
+Reference Answer: The passing conduct grade is C.
+-----------------------------------
+Factual Correctness Score: 0.0
+Answer Relevancy Score: 0.0
+===================================
+
+===================================
+Entry Number: 26
+Testing Time: 20260103_144418
+Time Used for Evaluation: 48.09 seconds
+-----------------------------------
+User Input: When is a student given a Minor Offense Notice for tardiness?
+Response: The specific number of tardy instances that trigger a Minor Offense Notice at Philippine Cultural College is detailed in the official **Student Handbook**.
+
+For the precise rule—such as whether it applies after three, five, or another set number of late arrivals—you will need to consult the handbook. The **Class Adviser** or the **Discipline Office** are the best sources to explain how the policy is applied in practice.
+
+If you need help locating the handbook or the appropriate office, I can assist you with that.
+Reference Answer: A pupil / student, who has accumulated a total number of ten (10) tardiness within a quarter will be given a minor offense notice.
+-----------------------------------
+Factual Correctness Score: 0.0
+Answer Relevancy Score: 0.0
+===================================
+
+===================================
+Entry Number: 27
+Testing Time: 20260103_144508
+Time Used for Evaluation: 52.98 seconds
+-----------------------------------
+User Input: What is the minimum conduct point deduction for a Major Offense?
+Response: I could not find the specific minimum conduct point deduction for a Major Offense in Philippine Cultural College's (PCC) published documents. This detailed rule is typically defined in the official **Student Handbook**.
+
+### 📘 How to Find the Official Policy
+To get the exact information, you should consult these authoritative sources:
+- **Philippine Cultural College Student Handbook**: This is the primary document containing all academic and disciplinary regulations. The handbook will list all offenses and their corresponding point deductions or sanctions.
+- **The Discipline Office or Your Class Adviser**: They can provide the most accurate, up-to-date interpretation of the rules and explain how they are applied in practice.
+
+### 💡 Related Information on Disciplinary Actions
+While the specific point system for PCC isn't listed, schools generally classify offenses and apply sanctions based on their severity. Actions for major violations can include:
+- **Formal warnings or probation**
+- **Loss of privileges** (e.g., scholarships, participation in events)
+- **Suspension or expulsion** for the most serious violations
+
+If you need help finding a digital copy of the Student Handbook or contact details for the Discipline Office, I can assist with that.
+Reference Answer: For major offenses, a minimum of seven (7) points to a maximum of twelve (12) points may be deducted from the conduct grade.
+-----------------------------------
+Factual Correctness Score: 0.0
+Answer Relevancy Score: 0.0
+===================================
+
+===================================
+Entry Number: 28
+Testing Time: 20260103_144603
+Time Used for Evaluation: 58.92 seconds
+-----------------------------------
+User Input: What penalty is given for littering?
+Response: The specific penalty for littering at Philippine Cultural College is not detailed in the available public sources.
+
+### 📜 Finding the Official School Policy
+To get the official rule for this violation, you should refer to the same official sources as for other disciplinary matters:
+*   **Consult the Student Handbook**: This is the primary document that outlines all disciplinary codes, including specific offenses like littering and their corresponding sanctions.
+*   **Contact the Discipline Office or your Class Adviser**: They can provide the most current and accurate information on how the policy is applied in practice.
+
+### 💡 General Littering Penalties in the Philippines
+While not specific to PCC, littering is prohibited by law in the Philippines, and local governments enforce various penalties. For context, in Metro Manila, an offender can face an administrative fine of **₱500** or **one day of community service**. In other areas, penalties can vary, with fines up to ₱5,000 being discussed or implemented in some cities.
+
+Would you like help finding contact information for the Discipline Office?
+Reference Answer: Littering is an offense that will result in a Minor Offense Notice. Depending on the gravity, a minimum of one (1) point to a maximum of six (6) points will be deducted from the conduct grade.
+-----------------------------------
+Factual Correctness Score: 0.0
+Answer Relevancy Score: 0.0
+===================================
+
+===================================
+Entry Number: 29
+Testing Time: 20260103_144703
+Time Used for Evaluation: 81.31 seconds
+-----------------------------------
+User Input: What is the purpose of the student handbook?
+Response: The purpose of the Student Handbook is to serve as the official guide for all campus rules, policies, and procedures, helping you navigate school life smoothly and stay informed.
+
+To break it down, the handbook fulfills several key roles:
+
+*   **Defines Rules and Expectations**: It clearly outlines the "do's and don'ts" on campus, including academic standards, disciplinary codes, and conduct expectations. Understanding these helps maintain order and allows you to focus on your studies.
+*   **Provides Essential Information**: It acts as a central resource for important information on academic calendars, campus facilities, administrative processes, and support services available to you.
+*   **Promotes a Safe and Productive Environment**: By ensuring everyone is aware of and agrees to the same standards, the handbook helps foster a respectful, secure, and focused learning community for all students.
+
+At Philippine Cultural College, these guidelines are designed to support the school's mission of forming well-rounded youth who appreciate their cultural heritage. The handbook's rules and the school's objectives for instilling core values like diligence, integrity, and respect work together to achieve this goal.
+
+Ultimately, the handbook is more than a list of rules—it's a tool for your success and well-being as a member of the PCC community.
+Reference Answer: The student handbook contains the different academic policies, which all pupils/students are expected to know and observe.
+-----------------------------------
+Factual Correctness Score: 0.5
+Answer Relevancy Score: 0.9838865594914186
+===================================
+
+===================================
+Entry Number: 30
+Testing Time: 20260103_144826
+Time Used for Evaluation: 70.21 seconds
+-----------------------------------
+User Input: Where do applicants for admission go to apply?
+Response: Prospective applicants to the Philippine Cultural College (PCC) can apply through two main official channels: online or in person at the College Department .
+
+| Method | Details |
+| :--- | :--- |
+| **Online Application** | Submit via the PCC online portal; scan a QR code on official posts or go directly to the website. |
+| **In-Person Application** | Apply directly at the **College Department** on campus. |
+
+### 📝 More About the Application Process
+For a smooth application, here are the practical details for each method:
+*   **Applying Online**: The school's online application system allows you to upload required documents, such as photos and academic records, directly through the website . You can find a link to apply or a scannable QR code on PCC's official social media announcements .
+*   **Applying In Person**: You must personally submit your application at the College Department during its operating hours . The office is open on weekdays and Saturdays from **9:00 AM to 5:00 PM** . For inquiries, you can visit the campus at **46 M. Cuenco St. Corner D. Tuazon St., Quezon City** or call **8241-5522** .
+
+### 💡 Helpful Tips for Applicants
+*   **Prepare Your Documents Early**: Whether applying online or in person, you will need documents like your birth certificate, report cards, and ID pictures ready .
+*   **Check for Updates**: Admission requirements and processes can be updated. For the most current information, always refer to the official PCC website or contact the admissions office directly .
+
+I hope this information helps you begin your application to PCC. If you have more questions about the required documents or entrance tests, feel free to ask!
+Reference Answer: All applicants must apply in person at the Office of Student Affairs (OSA)/Kinder Office.
+-----------------------------------
+Factual Correctness Score: 0.0
+Answer Relevancy Score: 0.6041401738071479
+===================================
+
+===================================
+Entry Number: 31
+Testing Time: 20260103_144938
+Time Used for Evaluation: 52.19 seconds
+-----------------------------------
+User Input: What happens to the reservation fee after it is paid?
+Response: The specific details on how a reservation fee is processed at Philippine Cultural College (PCC) are not detailed in publicly available documents. However, based on standard practice and the general purpose of such fees, here is what typically happens:
+
+### 💰 General Purpose and Treatment
+A reservation fee (sometimes called an **Enrollment Deposit**) in a school setting usually serves two main purposes:
+*   **Securing a Slot**: It guarantees your accepted place in the incoming class for the upcoming school year.
+*   **Credited Against Tuition**: In nearly all cases, the amount paid is not an additional charge but is **deducted from or applied toward** your total tuition and other school fees for the first semester or term.
+
+### 🔍 How to Get PCC's Specific Policy
+To get the exact and official information regarding the reservation fee's processing, refundability, and specific due dates, you should consult the following sources:
+*   **Official School Website and Handbook**: The most current policies are typically outlined in the admissions section of the PCC website or the official **Student Handbook**.
+*   **Contact the Admissions or Registrar's Office**: For precise details, including confirmation of the amount and payment instructions, it's best to contact the school administration directly. They can provide you with the definitive process and answer any specific questions.
+
+If you need assistance finding the contact details for the PCC admissions office, please let me know.
+Reference Answer: The reservation fee is non-refundable but is deductible from the tuition fee.
+-----------------------------------
+Factual Correctness Score: 0.36
+Answer Relevancy Score: 0.0
+===================================
+
+===================================
+Entry Number: 32
+Testing Time: 20260103_145032
+Time Used for Evaluation: 58.27 seconds
+-----------------------------------
+User Input: What is the curfew time on campus?
+Response: I am unable to locate the specific campus curfew time for Philippine Cultural College within the publicly accessible records.
+
+The official policy would be detailed in the school's **Student Handbook** or specific residential life regulations.
+
+To find the precise time, I recommend consulting your **Class Adviser** or contacting the **Student Affairs** or **Campus Security Office** at your specific PCC campus (Manila, Caloocan, or Quezon City). These offices can provide the definitive rules, which often vary by dormitory or residency program and are established to ensure student safety and an orderly campus environment.
+Reference Answer: To ensure the safety and order of the campus, a school-wide curfew is imposed starting at 6:30 p.m.
+-----------------------------------
+Factual Correctness Score: 0.29
+Answer Relevancy Score: 0.0
+===================================
+
+===================================
+Entry Number: 33
+Testing Time: 20260103_145132
+Time Used for Evaluation: 71.58 seconds
+-----------------------------------
+User Input: Who is allowed to bring laptops or tablets to school?
+Response: Based on the search results, I cannot provide the specific rule for who is allowed to bring laptops or tablets to Philippine Cultural College (PCC), as this detailed policy is not included in the publicly accessible documents found in the search.
+
+However, these types of rules are nearly always established in a school's official **Student Handbook** or in a dedicated technology use policy.
+
+### 🔍 How to Find the Official Rule
+To get the accurate and up-to-date information for PCC, the most reliable approach is to consult the school's official sources:
+*   **Consult the Student Handbook**: This is the primary document containing all academic and behavioral policies. The official rule regarding electronic devices, who can bring them, and under what conditions (e.g., for class use only) would be defined there.
+*   **Check Official School Announcements**: The school administration may issue specific memos or updates regarding device policies, especially at the start of a new school year or term.
+*   **Contact the School Directly**: For the most definitive answer, you can inquire with your **Class Adviser**, the **Registrar's Office**, or the **Student Affairs Office**. They can provide the official policy and clarify any questions about its application.
+
+Please note that the document from "Portland Community College" found in the search refers to a different institution in the United States and is not applicable to PCC in the Philippines.
+
+If you need help finding contact details for the school offices, I can assist you with that.
+Reference Answer: Only SHS students may bring laptops/tablets to school.
+-----------------------------------
+Factual Correctness Score: 0.0
+Answer Relevancy Score: 0.0
+===================================
+
+===================================
+Entry Number: 34
+Testing Time: 20260103_145245
+Time Used for Evaluation: 54.18 seconds
+-----------------------------------
+User Input: What is the minimum conduct grade needed to qualify for GS & JHS Section Honors?
+Response: The specific minimum conduct grade required to qualify for Section Honors at Philippine Cultural College's Grade School and Junior High School is not detailed in the publicly available information I have reviewed.
+
+To help you understand the general standards, other schools in the Philippines often set conduct requirements for honors. For example, one school's policy specifies that students must maintain a **conduct grade of at least 80%** and not be under disciplinary probation to be eligible for the honor roll or promotion . At the same school, students who get a conduct grade lower than 80% in any two quarters in a school year can be placed on conduct probation .
+
+### 🔍 How to Find the Official PCC Policy
+To get the definitive and accurate information for PCC, I recommend you consult these official sources:
+*   **PCC Student Handbook**: This is the primary document containing all academic and disciplinary regulations, including the complete criteria for honors and awards.
+*   **Grade School or Junior High School Office**: The principal's office or the academic affairs unit for your specific department can provide the official policy.
+*   **Your Class Adviser**: They have direct access to the latest guidelines and can clarify the requirements for your year level.
+
+If you need help finding a copy of the Student Handbook or contact details for the school offices, please let me know.
+Reference Answer: To qualify for the Section Honors, a pupil / student should have a conduct grade of at least B-.
+-----------------------------------
+Factual Correctness Score: 0.0
+Answer Relevancy Score: 0.0
+===================================
+
+===================================
+Entry Number: 35
+Testing Time: 20260103_145341
+Time Used for Evaluation: 50.82 seconds
+-----------------------------------
+User Input: When are Excellence in Academics awards given for Kindergarten?
+Response: The search results do not provide specific dates for when Philippine Cultural College (PCC) gives "Excellence in Academics" awards for Kindergarten.
+
+However, here is the general guidance from the Philippine Department of Education (DepEd) and suggestions for finding PCC's official schedule:
+
+### 🎯 General Guidelines for Kindergarten Awards
+According to the national DepEd policy on awards, kindergarten learners, who do not receive numerical grades, should be recognized for their strengths or significant improvement . Teachers are advised to give these **performance awards at the end of every quarter**, based on the child's progress in different learning areas and competencies .
+
+### 📅 How to Find PCC's Specific Schedule
+To know the exact dates for PCC's Kindergarten award ceremonies, it's best to check official school sources:
+*   **Official School Calendar**: The PCC Academic Calendar for the current school year, often published on the school's website, will list major events, including recognition days.
+*   **Communications from the Kindergarten Department**: Notices and announcements from your child's teacher or the Kindergarten office are the most direct source of information.
+*   **School Handbook**: The student or parent handbook may contain general policies on awards and recognition.
+
+If you need help finding the latest Academic Calendar on the PCC website, feel free to ask.
+Reference Answer: Excellence in Academics for Kinder is awarded at the end of every school year.
+-----------------------------------
+Factual Correctness Score: 0.0
+Answer Relevancy Score: 0.0
+===================================
+
+===================================
+Entry Number: 36
+Testing Time: 20260103_145433
+Time Used for Evaluation: 57.40 seconds
+-----------------------------------
+User Input: What is the PCC GOLD award?
+Response: I cannot find specific information about a "PCC GOLD award" from Philippine Cultural College within the provided search results. The results that mention "Gold" awards pertain to other organizations such as the Girl Scouts , golf associations , or postal services , which are not related to PCC.
+
+### 🔍 How to Find Information on School Awards
+To get accurate information about specific awards or recognitions at Philippine Cultural College, I recommend checking these official sources:
+*   **Student Handbook**: The official handbook is the primary resource for school policies, academic criteria, and the awards system.
+*   **School Administration**: For the most current information, please contact the **Registrar's Office**, the **Principal's Office** of your specific department (e.g., Grade School, Junior High School), or speak with your **Class Adviser**.
+
+If you need help finding contact details for these offices, I can assist you with that.
+Reference Answer: PCC GOLD is the ultimate recognition given to a student from a pool of Great Distinction awardees. The recipient should excel in academics and in curricular and extracurricular activities.
+-----------------------------------
+Factual Correctness Score: 0.0
+Answer Relevancy Score: 0.0
+===================================
+
+===================================
+Entry Number: 37
+Testing Time: 20260103_145532
+Time Used for Evaluation: 74.57 seconds
+-----------------------------------
+User Input: When is the Excellence in Conduct award given for Grade 1 to 5 students?
+Response: The specific schedule for the "Excellence in Conduct" award at Philippine Cultural College's Grade 1 to 5 level is not detailed in the provided search results. However, a general framework from the Philippine Department of Education (DepEd) offers some context.
+
+### 📚 General Guidelines for Conduct Awards
+According to national DepEd policies, conduct awards for basic education in the Philippines are generally given at the end of the school year, and the focus varies by grade level:
+*   **For Kindergarten to Grade 3**: Students are recognized for demonstrating positive character traits or significant behavioral improvement. These character awards can be given more flexibly, such as at the end of a quarter, to affirm positive attitudes.
+*   **For Grades 4 to 12**: Formal conduct awards are typically given **at the end of the school year**. To qualify, a student must consistently demonstrate core values and obtain a specific rating (e.g., at least 75% "Always Observed") in their report card, with no major disciplinary sanctions.
+
+### 🔍 Finding the Specific PCC Schedule
+To get the exact dates and criteria for Philippine Cultural College:
+*   **Consult the Student Handbook**: This is the definitive source for all school policies, including the complete awards system and academic calendar.
+*   **Check Official Announcements**: Look for communications from the **Grade School Principal's Office** or your child's **class adviser**, as they will announce the official schedule for recognition ceremonies.
+*   **Review the School Calendar**: The PCC Academic Calendar for the current school year, available on the school's official website, lists major events including recognition days.
+
+If you need help locating the latest academic calendar or contact information for the grade school office, feel free to ask.
+Reference Answer: Excellence in Conduct award is given at the end of the school year during the Recognition Day.
+-----------------------------------
+Factual Correctness Score: 0.0
+Answer Relevancy Score: 0.0
+===================================
+
+===================================
+Entry Number: 38
+Testing Time: 20260103_145649
+Time Used for Evaluation: 48.08 seconds
+-----------------------------------
+User Input: What are the opening hours of the library for Grade School students on a Friday?
+Response: The current opening hours for the Grade School library on Fridays are not available in the school's public documents I can access.
+
+To get the most accurate and up-to-date schedule, here are the best steps to take:
+
+*   **Check Official School Communications**: Look for the schedule in the official **Philippine Cultural College Student Handbook** or any recent announcements from the **Grade School Principal's Office**. These are the primary sources for all operational details.
+*   **Contact the School Directly**: The library itself or the Grade School administrative office can provide you with the definitive hours. If you know which campus your child attends (Manila, Caloocan, or Quezon City), you can contact that specific campus office.
+
+I understand it's important to plan your child's week. If you need help finding contact information for the Grade School office, I can assist with that as well.
+Reference Answer: For Grade School students, the library is open from 7:00 a.m. to 5:30 p.m. from Mondays to Fridays.
+-----------------------------------
+Factual Correctness Score: 0.0
+Answer Relevancy Score: 0.0
+===================================
+
+===================================
+Entry Number: 39
+Testing Time: 20260103_145738
+Time Used for Evaluation: 53.48 seconds
+-----------------------------------
+User Input: Where should students leave their bags when using the library?
+Response: Based on the search results, I am unable to provide the specific rules for the Philippine Cultural College (PCC) library regarding where to leave bags.
+
+All the webpages provided are for other institutions in the United States that share the acronym "PCC" (such as Portland Community College, Pasadena City College, and Pima Community College), not the Philippine Cultural College in Manila.
+
+### 🔍 How to Find the Official Policy
+To get the correct and current information, the best approach is to consult Philippine Cultural College's own official sources.
+*   **Consult the PCC Student Handbook or Library Website**: These primary documents contain all campus rules, including library-specific policies.
+*   **Check Posted Library Policies**: Look for signs or guidelines posted at the entrance or circulation desk of the PCC library itself.
+*   **Ask Library Staff or Your Class Adviser**: They can provide the most direct and authoritative guidance on library procedures.
+
+If you need help finding the link to the official PCC library webpage or contact details, I can assist you with that search.
+Reference Answer: Bags are not permitted inside the library. Pupils / students may leave their bags at designated places.
+-----------------------------------
+Factual Correctness Score: 0.0
+Answer Relevancy Score: 0.0
+===================================
+
+===================================
+Entry Number: 40
+Testing Time: 20260103_145834
+Time Used for Evaluation: 57.83 seconds
+-----------------------------------
+User Input: What does the school hymn say the Alma Mater does?
+Response: The specific lyrics of the Philippine Cultural College (PCC) school hymn are not available in the public search results I can access, so I cannot tell you exactly what it says the Alma Mater does.
+
+For this kind of specific institutional detail, the most direct way to get the information is to:
+*   **Consult the Official Student Handbook**: The school hymn is often printed in the handbook.
+*   **Check the Official School Website**: The "About Us," "History," or "Spirituality" sections of the PCC website frequently contain the lyrics.
+*   **Contact the School Administration**: The Registrar's Office or the Student Affairs Office can provide you with the official hymn.
+
+While the search results did contain hymns from other institutions that share the "PCC" initials, they are not applicable to the Philippine Cultural College.
+
+If you need help finding the link to the official PCC website, feel free to ask.
+Reference Answer: Our Alma Mater extends her guiding hands nurturing generations as vanguards of civilization.
+-----------------------------------
+Factual Correctness Score: 0.0
+Answer Relevancy Score: 0.0
+===================================
+
+===================================
+Entry Number: 41
+Testing Time: 20260103_145933
+Time Used for Evaluation: 41.90 seconds
+-----------------------------------
+User Input: What are the two major organizations in PCC?
+Response: The two major organizations in Philippine Cultural College (PCC) are the **Philippine Chinese Educational Association** and the **PCHS/PCC Alumni Association**.
+
+The Philippine Chinese Educational Association is the founding body that established the school in 1923, while the Alumni Association, originally organized in 1937, has played a vital role in the school's growth, fundraising, and community throughout its history.
+Reference Answer: The school paper, Tanglaw for the Manila campus and Scribe/Ang Patnubay for the Caloocan campus, and the Student Council.
+-----------------------------------
+Factual Correctness Score: 0.0
+Answer Relevancy Score: 0.8565840115834628
+===================================
+
+===================================
+Entry Number: 42
+Testing Time: 20260103_150017
+Time Used for Evaluation: 60.18 seconds
+-----------------------------------
+User Input: When are students required to join a club?
+Response: The specific rule about whether and when students are required to join a club at Philippine Cultural College is not detailed in the publicly available information I can access. Generally, policies on mandatory club participation are set by individual schools.
+
+### 🎯 **Common Educational Context**
+In the Philippine K-12 system, especially at the **Junior High School (JHS)** and **Senior High School (SHS)** levels, participation in clubs or student organizations is often encouraged and may be integrated into the curriculum. For SHS students, involvement in clubs is sometimes a way to gain credits for the "Performance Tasks" component of certain subjects or to fulfill requirements for leadership and community engagement tracks.
+
+### 🔍 **How to Find PCC's Official Policy**
+To get the definitive answer for Philippine Cultural College, you should consult the school's own official documents:
+*   **Student Handbook**: This is the primary source for all academic and co-curricular regulations. It will state if club membership is required, for which grade levels, and any related guidelines.
+*   **School Administration**: Your **Class Adviser** or the **Office of Student Affairs** can provide the most current and accurate information on club policies and enrollment procedures.
+
+If you need help locating the Student Handbook or contact details for the Student Affairs office, I can assist you with that.
+Reference Answer: Starting grade four, each PCC student is required to choose from among the list of co-curricular and extra-curricular clubs a club he/she wishes to join for the year.
+-----------------------------------
+Factual Correctness Score: 0.0
+Answer Relevancy Score: 0.0
+===================================
+
+===================================
+Entry Number: 43
+Testing Time: 20260103_150118
+Time Used for Evaluation: 56.13 seconds
+-----------------------------------
+User Input: Where should inquiries for tutorial services be made?
+Response: I could not find specific details on where to inquire about tutorial services at Philippine Cultural College (PCC) within the search results. However, the general structure for finding this information is consistent across most educational institutions.
+
+To get the official and current information for PCC, here are the most effective steps you can take:
+
+| Step | Recommended Action |
+| :--- | :--- |
+| **1. Consult Official Documents** | Check the official **PCC Student Handbook**, as it typically contains all policies and services, including support programs like tutoring. |
+| **2. Contact School Offices** | Reach out to the **Guidance Counselor's Office** or the **Academic Affairs/Student Affairs Office** of your specific department (Grade School, High School, or College). |
+| **3. Check the School Website** | Visit the official PCC website for announcements, service pages, or contact directories . |
+| **4. Ask Teachers or Advisers** | Your class adviser or subject teacher is a direct resource who can guide you to the correct support system. |
+
+### 🔍 Why Specific Details Aren't in the Search
+The search results did not contain the needed details because:
+*   Most results were for institutions with the same initials "PCC" but located in the United States (e.g., Portland Community College, Pueblo Community College) .
+*   Others were for a healthcare software company named PointClickCare .
+*   The official PCC website pages found were general and did not list tutorial services .
+
+I hope this guide helps you find the support you need. If you require assistance finding contact details for the school offices, feel free to ask.
+Reference Answer: Inquiries and applications for tutorial services must be made directly with the Office of Student Affairs (OSA).
+-----------------------------------
+Factual Correctness Score: 0.13
+Answer Relevancy Score: 0.0
+===================================
+
+===================================
+Entry Number: 44
+Testing Time: 20260103_150216
+Time Used for Evaluation: 66.59 seconds
+-----------------------------------
+User Input: When are tutorial sessions usually held?
+Response: The specific weekly schedule for tutorial sessions at Philippine Cultural College (PCC) is not published on the public school website or online information portals. This type of detailed, operational schedule is typically determined at the start of each academic term and communicated directly to students.
+
+### 🔍 How to Find the Official Tutorial Schedule
+To get the accurate and up-to-date schedule for your specific campus and grade level, you should check these official sources:
+
+| Information Source | Where to Find It / Who to Contact |
+| :--- | :--- |
+| **Official School Calendar** | Check the detailed Academic Calendar on the [PCC website](https://www.philippineculturalcollege.edu.ph/), as it may list the general start date for tutorial periods. |
+| **Grade-Level or Subject Teachers** | Your class adviser or subject teachers will have the most current information on available tutorial sessions for your specific courses. |
+| **School Administration Offices** | Contact the **Principal's Office** or the **Guidance Counselor's Office** at your specific PCC campus (Manila, Caloocan, or Quezon City). |
+
+### 📝 What to Know When Asking
+When you inquire, it is helpful to specify your **campus**, **grade level**, and the **specific subjects** you need help with, as schedules often differ. Tutorial sessions may be held during lunch breaks, after regular class hours, or on designated days of the week.
+
+I hope this helps you find the support you need. If you require assistance finding contact details for the school administration, I can help with that as well.
+Reference Answer: Tutorial sessions are held Mondays to Fridays at 4:30 p.m. onwards during regular school days.
+-----------------------------------
+Factual Correctness Score: 0.2
+Answer Relevancy Score: 0.6209401954554097
+===================================
+
+===================================
+Entry Number: 45
+Testing Time: 20260103_150324
+Time Used for Evaluation: 64.11 seconds
+-----------------------------------
+User Input: What time is the school clinic open on a regular Friday?
+Response: The specific operating hours for the school clinic on a regular Friday are not available in the school's publicly posted information.
+
+For accurate and up-to-date clinic hours and procedures, I recommend checking the following official sources:
+
+*   **Consult the Student Handbook**: All facility rules and operating hours, including those for the school clinic, are typically detailed in the official **PCC Student Handbook**.
+*   **Contact School Administration**: The **School Clinic** directly, the **Principal's Office**, or the **Student Affairs Office** at your specific campus can provide you with the definitive schedule and any access procedures.
+*   **Check Official Announcements**: Look for posted notices or bulletins from the clinic or school administration, which often communicate such operational details.
+
+I understand this is important information for planning. If you need help finding contact details for the administration at your campus, please let me know.
+Reference Answer: The clinic is open from 7:00 a.m. to 6:30 p.m. from Mondays to Fridays.
+-----------------------------------
+Factual Correctness Score: 0.0
+Answer Relevancy Score: 0.0
+===================================
+
+===================================
+Entry Number: 46
+Testing Time: 20260103_150430
+Time Used for Evaluation: 53.46 seconds
+-----------------------------------
+User Input: What is the monthly theme for August?
+Response: I do not have access to the specific monthly themes for Philippine Cultural College (PCC) from the information available in the search results.
+
+The school's official monthly themes page was found, but it does not list the actual themes for each month. The other search results are about different organizations and are not relevant to PCC's internal monthly schedule.
+
+### 🔍 How to Find the Official Theme
+To get the correct theme for August or any other month, the best steps are:
+
+*   **Consult the Student Handbook**: The annual themes are often included in the official **PCC Student Handbook**.
+*   **Check School Announcements**: Look for official memos, letters from the principal, or notices posted on the school's bulletin boards and official website at the beginning of the school year or each month.
+*   **Ask Your Class Adviser**: They are a direct source for this type of internal school information and can provide the current year's monthly themes.
+
+If you need help finding contact details for the school administration to inquire further, please let me know.
+Reference Answer: August is Loyalty and Patriotism.
+-----------------------------------
+Factual Correctness Score: 0.0
+Answer Relevancy Score: 0.0
+===================================
+
+===================================
+Entry Number: 47
+Testing Time: 20260103_150525
+Time Used for Evaluation: 90.69 seconds
+-----------------------------------
+User Input: What do the school colors of green and yellow signify?
+Response: The school colors of Philippine Cultural College (PCC), **green and yellow**, are its official colors. While a specific, official statement on their meaning is not provided in the search results, their significance can be interpreted in the context of the school's mission, history, and common cultural associations.
+
+Based on the school's guiding principles and common symbolism, the colors are understood to represent the following:
+
+| Color | Common Symbolic & Cultural Meanings (Philippines/China) | Likely Institutional Meanings for PCC |
+| :--- | :--- | :--- |
+| **Green** | Nature, life, growth, vitality, harmony; education (associated with prominent schools like De La Salle). | Represents **perpetual growth**, **youthful vitality**, and a **commitment to educational excellence**. It aligns with the school's vision to be a leading institution that nurtures well-rounded youth. |
+| **Yellow (Gold)** | Sun, happiness, hope, optimism; in the Philippines, also associated with democracy, courage, and integrity. | Symbolizes the **radiance of knowledge**, **high ideals**, and the **positive spirit** of the school community. It reflects core values like courage and integrity that PCC aims to instill. |
+
+Together, these colors visually embody PCC's mission to provide excellent education while fostering a proud **Chinese-Filipino cultural identity**. They represent the institution's role in cultivating growth (green) in its students toward a bright and principled future (yellow/gold).
+
+For the definitive interpretation, the school's **Student Handbook** or official publications would be the best source. You could also inquire with the **Office of the Principal** or the **Student Affairs Office** for an authoritative explanation.
+
+I hope this provides a meaningful understanding of PCC's colors. If you have questions about other school symbols or traditions, feel free to ask.
+Reference Answer: GREEN: Signifies the development of progressive thinking, learning, and attitude in education. YELLOW: Symbolizes the cultivation of noble spirit, character, and personality.
+-----------------------------------
+Factual Correctness Score: 0.46
+Answer Relevancy Score: 0.5917954557781517
+===================================
+
+===================================
+Entry Number: 48
+Testing Time: 20260103_150658
+Time Used for Evaluation: 63.16 seconds
+-----------------------------------
+User Input: What does the Lighthouse in the school seal represent?
+Response: Based on the school's vision and mission, the lighthouse in the Philippine Cultural College (PCC) seal is understood to symbolize the institution's role as a **beacon of learning and guidance**. It represents the school's commitment to illuminating the path of knowledge and instilling strong values in its students.
+
+The symbol aligns with the College Department's stated goal of being a leading institution dedicated to providing "academically excellent, value-laden" education . In this context, the lighthouse visually represents:
+*   A source of **enlightenment and truth**, guiding students in their search for knowledge.
+*   A **steadfast moral compass**, reflecting the mission to develop "ethically and socially responsible professionals with integrity" .
+*   A symbol of **hope and direction**, helping students navigate toward a future where they are proud of their Chinese-Filipino cultural heritage.
+
+For the official and definitive interpretation of the seal's symbols, the school's **Student Handbook** or a direct inquiry with the **Office of the President or the Registrar** is recommended.
+Reference Answer: The Lighthouse represents Philippine Cultural College, the refuge of Knowledge-Seekers, the solace of the students, who desire to Learn.
+-----------------------------------
+Factual Correctness Score: 0.5
+Answer Relevancy Score: 0.7870813126332633
+===================================
+
+===================================
+Entry Number: 49
+Testing Time: 20260103_150802
+Time Used for Evaluation: 65.18 seconds
+-----------------------------------
+User Input: What is the vision of PCC?
+Response: The vision of Philippine Cultural College is to be **"A responsive Chinese-Filipino institution that provides equal opportunity for excellent education towards the total development of globally competitive learners appreciative of their cultural heritage and proud of their identity."**
+
+This overarching vision is reflected in the specific objectives of each academic department, showing how the school puts this vision into practice:
+
+| Academic Department | Key Focus in Line with the Vision |
+| :--- | :--- |
+| **Kindergarten** | Aims for the total development of children into productive, independent learners aware of their cultural heritage. |
+| **Grade School** | Focuses on building fundamental skills, teaching multiple languages (Filipino, English, Chinese), and fostering appreciation for Chinese-Filipino heritage. |
+| **High School** | Develops critical thinking for higher education, strengthens cultural heritage, and prepares students for future careers. |
+| **College Department** | Specifically envisions itself as a leading institution delivering excellent programs that build a strong **Chinese-Filipino cultural identity**. |
+
+I hope this detailed view of the school's vision and objectives is helpful for you. If you are interested in the school's mission statement or philosophy, feel free to ask.
+Reference Answer: A responsive Chinese-Filipino institution that provides equal opportunity for excellent education towards the total development of globally competitive learners appreciative of their cultural heritage and proud of their identity.
+-----------------------------------
+Factual Correctness Score: 0.45
+Answer Relevancy Score: 0.6809865176190852
+===================================
+
+===================================
+Entry Number: 50
+Testing Time: 20260103_150909
+Time Used for Evaluation: 64.75 seconds
+-----------------------------------
+User Input: When can a Special Class Program student be exempted from the Fourth quarterly Math assessment?
+Response: The search results do not contain the specific policy for when a Special Class Program student can be exempted from the Fourth quarterly Math assessment at Philippine Cultural College (PCC).
+
+Such detailed academic rules are typically not published online but are found in the school's official administrative guidelines.
+
+### 🔍 How to Find the Official Information
+To get an accurate answer, I recommend you check these official sources in the following order:
+
+1.  **Academic Handbook or Student Manual**: The most definitive rules for assessments, exemptions, and special programs are in the school's official handbook, which you can find on the PCC official website or get from your department .
+2.  **Guidance Counselor or Subject Teacher**: They can explain the school's specific rules for exemptions in the Special Class Program, which may include reasons like exceptional performance, health issues, or participation in official school competitions.
+3.  **Registrar's Office**: If your teacher or adviser cannot provide the policy, the Registrar's Office holds the official academic records and can give you the formal procedures for assessment exemptions.
+
+This approach will help you find the accurate policy for your situation. If you have other questions about the school's general objectives or vision, feel free to ask.
+Reference Answer: A student included in the Special Class Program may be exempted from the Fourth quarterly assessment in Math if he/she belongs to the top 50% of his/her class.
+-----------------------------------
+Factual Correctness Score: 0.12
+Answer Relevancy Score: 0.0
+===================================
+

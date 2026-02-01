@@ -1,0 +1,750 @@
+===================================
+Entry Number: 1
+Testing Time: 20260103_114906
+Time Used for Evaluation: 48.27 seconds
+-----------------------------------
+User Input: What is the main aim of education according to the school's philosophy?
+Retrieved Contexts: ['PCC Educational Philosophy\n\nThe educational philos...有了教育，就能过得有意义。教育不仅使人懂得如何面对变化无穷的世界，更使人懂得如何应付各种生活的挑战。', 'PCC School Objectives\n\nThe Kindergarten Objectives...作；\n\n    培养民主、平等、自立、自律、自觉及其它正确的观念，成为国家发展及进步正直有为的公民。', 'PCC Mission\n\nOur Mission\n\nFormation of well-rounde...ng times.\n\n学校使命\n本校旨在培养全面发展、能适应时代需求并以祖先传统文化为傲的菲华青年。', 'PCC Vision\n\nOur Vision\n\nA responsive Chinese-Filip...的学校，为莘莘学子提供优质教育，使他们得以全面发展，成为具有全球竞争能力并以祖先传统文化为傲的人才。']
+Response: The main aim of education is to develop a person into a useful citizen who contributes to building a just and humane society.
+Reference Answer: The aim of education is to develop man so as to enable him to become a useful citizen who will contribute to the building of a just and humane society.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 1.0
+Answer Relevancy Score: 0.8072236923855479
+===================================
+
+===================================
+Entry Number: 2
+Testing Time: 20260103_114955
+Time Used for Evaluation: 86.05 seconds
+-----------------------------------
+User Input: Where does the school's educational philosophy draw its inspiration from?
+Retrieved Contexts: ['PCC Educational Philosophy\n\nThe educational philos...有了教育，就能过得有意义。教育不仅使人懂得如何面对变化无穷的世界，更使人懂得如何应付各种生活的挑战。', 'PCC Vision\n\nOur Vision\n\nA responsive Chinese-Filip...的学校，为莘莘学子提供优质教育，使他们得以全面发展，成为具有全球竞争能力并以祖先传统文化为傲的人才。', 'In 1991, spearheaded by the several members of the...contribute more to the society and to our country.', 'PCC School Objectives\n\nThe Kindergarten Objectives...作；\n\n    培养民主、平等、自立、自律、自觉及其它正确的观念，成为国家发展及进步正直有为的公民。']
+Response: The school's educational philosophy draws its inspiration from the unique heritage of Chinese-Filipinos, their inherent oriental worldview, and the dedicated influence of its alumni, administrators, teachers, staff, parents, and students.
+Reference Answer: It is inspired by several intertwining factors: the unique heritage of the Chinese-Filipinos, their inherent oriental worldview, and the influence of many people—the alumni, administrators, teachers, service personnel, parents and students—who have dedicated their loyalty to the school.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 0.89
+Answer Relevancy Score: 0.9654015662102976
+===================================
+
+===================================
+Entry Number: 3
+Testing Time: 20260103_115123
+Time Used for Evaluation: 47.48 seconds
+-----------------------------------
+User Input: What is the mission of PCC?
+Retrieved Contexts: ['PCC Mission\n\nOur Mission\n\nFormation of well-rounde...ng times.\n\n学校使命\n本校旨在培养全面发展、能适应时代需求并以祖先传统文化为傲的菲华青年。', 'PCC stands for "Philippine Cultural College"\nPCC指的是"菲律宾侨中学院"', 'PCC Vision\n\nOur Vision\n\nA responsive Chinese-Filip...的学校，为莘莘学子提供优质教育，使他们得以全面发展，成为具有全球竞争能力并以祖先传统文化为傲的人才。', 'PCC School Objectives\n\nThe Kindergarten Objectives...作；\n\n    培养民主、平等、自立、自律、自觉及其它正确的观念，成为国家发展及进步正直有为的公民。']
+Response: The mission of PCC is the formation of well-rounded Chinese-Filipino youth appreciative of their cultural heritage and responsive to the changing times.
+Reference Answer: Formation of well-rounded Chinese-Filipino youth appreciative of their cultural heritage and responsive to the changing times.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 1.0
+Answer Relevancy Score: 0.9999219063426096
+===================================
+
+===================================
+Entry Number: 4
+Testing Time: 20260103_115212
+Time Used for Evaluation: 34.76 seconds
+-----------------------------------
+User Input: What does PCC stand for?
+Retrieved Contexts: ['PCC stands for "Philippine Cultural College"\nPCC指的是"菲律宾侨中学院"', 'PCC Vision\n\nOur Vision\n\nA responsive Chinese-Filip...的学校，为莘莘学子提供优质教育，使他们得以全面发展，成为具有全球竞争能力并以祖先传统文化为傲的人才。', 'PCC Mission\n\nOur Mission\n\nFormation of well-rounde...ng times.\n\n学校使命\n本校旨在培养全面发展、能适应时代需求并以祖先传统文化为傲的菲华青年。', 'PART V\nStudent Activities: Programs and Guidelines...Chess, Volleyball, Pep Squad, Wushu, and Swimming.']
+Response: PCC stands for Philippine Cultural College.
+Reference Answer: PCC stands for Philippine Cultural College.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 1.0
+Answer Relevancy Score: 0.9999999999999997
+===================================
+
+===================================
+Entry Number: 5
+Testing Time: 20260103_115249
+Time Used for Evaluation: 39.59 seconds
+-----------------------------------
+User Input: When was PCC originally established?
+Retrieved Contexts: ['PCC stands for "Philippine Cultural College"\nPCC指的是"菲律宾侨中学院"', 'PCC Mission\n\nOur Mission\n\nFormation of well-rounde...ng times.\n\n学校使命\n本校旨在培养全面发展、能适应时代需求并以祖先传统文化为傲的菲华青年。', 'PCC Vision\n\nOur Vision\n\nA responsive Chinese-Filip...的学校，为莘莘学子提供优质教育，使他们得以全面发展，成为具有全球竞争能力并以祖先传统文化为傲的人才。', 'In 1991, spearheaded by the several members of the...contribute more to the society and to our country.']
+Response: Philippine Cultural College was originally established in 1923.
+Reference Answer: Our school was established in 1923.
+-----------------------------------
+Faithfulness Score: 0.0
+Factual Correctness Score: 0.0
+Answer Relevancy Score: 0.5879795011096296
+===================================
+
+===================================
+Entry Number: 6
+Testing Time: 20260103_115330
+Time Used for Evaluation: 38.92 seconds
+-----------------------------------
+User Input: Where was the Annex campus constructed?
+Retrieved Contexts: ['School History\nI – Foreword\nOur school was establi...ntly to the alma mater and the Alumni Association.', 'In 1991, spearheaded by the several members of the...contribute more to the society and to our country.', 'PART IV\nStudent Services\n\nSection 1: Guidance, Cou...foam containers are not allowed inside the campus.', 'PART I\nGeneral Policies and Procedures\n\nSection 1:... like change in address and / or telephone number.']
+Response: The Annex campus was constructed in Caloocan City.
+Reference Answer: In 1967, an Annex campus was constructed in Caloocan City.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 0.67
+Answer Relevancy Score: 0.9999999999999992
+===================================
+
+===================================
+Entry Number: 7
+Testing Time: 20260103_115411
+Time Used for Evaluation: 45.82 seconds
+-----------------------------------
+User Input: When did the school open its college department and become PCC?
+Retrieved Contexts: ['PCC stands for "Philippine Cultural College"\nPCC指的是"菲律宾侨中学院"', 'In 1991, spearheaded by the several members of the...contribute more to the society and to our country.', 'PART V\nStudent Activities: Programs and Guidelines...Chess, Volleyball, Pep Squad, Wushu, and Swimming.', 'PCC Vision\n\nOur Vision\n\nA responsive Chinese-Filip...的学校，为莘莘学子提供优质教育，使他们得以全面发展，成为具有全球竞争能力并以祖先传统文化为傲的人才。']
+Response: The school opened its college department and adopted the name Philippine Cultural College (PCC) in 2008.
+Reference Answer: On the same year (2008), the school opened its college and changed its name to Philippine Cultural College (PCC).
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 1.0
+Answer Relevancy Score: 0.8627898722800188
+===================================
+
+===================================
+Entry Number: 8
+Testing Time: 20260103_115458
+Time Used for Evaluation: 48.71 seconds
+-----------------------------------
+User Input: What was the school awarded in 2009 for its work in Chinese language curricular reform?
+Retrieved Contexts: ['In 1991, spearheaded by the several members of the...contribute more to the society and to our country.', 'PART VII\nHonors and Awards\n\nSection 6: Special Awa...ions of the Honors and Awards Committee are final.', 'PART VII\nHonors and Awards\n\nThe school recognizes ...d not have been served a major or a minor offense.', 'School History\nI – Foreword\nOur school was establi...ntly to the alma mater and the Alumni Association.']
+Response: In 2009, the school was awarded the title "Chinese Language Demonstration School" by the Overseas Chinese Affairs Office of the State Council of the People's Republic of China.
+Reference Answer: In 2009, it was awarded the title 'Chinese Language Demonstration School' by the Overseas Chinese Affairs Office of the State Council of the People's Republic of China.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 1.0
+Answer Relevancy Score: 0.7050637814699043
+===================================
+
+===================================
+Entry Number: 9
+Testing Time: 20260103_115549
+Time Used for Evaluation: 71.91 seconds
+-----------------------------------
+User Input: What is the main goal of the PCC Kindergarten?
+Retrieved Contexts: ['PCC School Objectives\n\nThe Kindergarten Objectives...作；\n\n    培养民主、平等、自立、自律、自觉及其它正确的观念，成为国家发展及进步正直有为的公民。', 'PCC Mission\n\nOur Mission\n\nFormation of well-rounde...ng times.\n\n学校使命\n本校旨在培养全面发展、能适应时代需求并以祖先传统文化为傲的菲华青年。', 'PCC Vision\n\nOur Vision\n\nA responsive Chinese-Filip...的学校，为莘莘学子提供优质教育，使他们得以全面发展，成为具有全球竞争能力并以祖先传统文化为傲的人才。', 'PCC stands for "Philippine Cultural College"\nPCC指的是"菲律宾侨中学院"']
+Response: The main goal of PCC Kindergarten is to foster the total development of children into productive, independent, and confident learners with an awareness of their cultural heritage, through a child-centered environment that encourages exploration, creativity, and a love for learning.
+Reference Answer: PCC Kinder Department aims for the total development of pre-school children into productive, independent and confident learners aware of their cultural heritage.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 0.71
+Answer Relevancy Score: 0.9909505187726224
+===================================
+
+===================================
+Entry Number: 10
+Testing Time: 20260103_115702
+Time Used for Evaluation: 75.38 seconds
+-----------------------------------
+User Input: What are the core values the College Department aims to inculcate?
+Retrieved Contexts: ['PCC School Objectives\n\nThe Kindergarten Objectives...作；\n\n    培养民主、平等、自立、自律、自觉及其它正确的观念，成为国家发展及进步正直有为的公民。', 'PCC Mission\n\nOur Mission\n\nFormation of well-rounde...ng times.\n\n学校使命\n本校旨在培养全面发展、能适应时代需求并以祖先传统文化为傲的菲华青年。', 'PCC Vision\n\nOur Vision\n\nA responsive Chinese-Filip...的学校，为莘莘学子提供优质教育，使他们得以全面发展，成为具有全球竞争能力并以祖先传统文化为傲的人才。', 'OUR MOST CHERISHED VALUES (CORE VALUES)\n勤 诚 勇 爱 公\n...的菲华社会，也代表着求知欲强的侨中人。\n\n一对海鸥象征着进步的思想、正确的教育观，以摆脱无知的束缚。']
+Response: The College Department aims to inculcate the core values of diligence, honesty, integrity, respect, courage, compassion, and equality.
+Reference Answer: The College Department aims to inculcate core values such as diligence, honesty, integrity, respect, courage, compassion and equality.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 1.0
+Answer Relevancy Score: 0.9920745043105229
+===================================
+
+===================================
+Entry Number: 11
+Testing Time: 20260103_115819
+Time Used for Evaluation: 39.90 seconds
+-----------------------------------
+User Input: When does the school year usually start and end?
+Retrieved Contexts: ['PART II\nAcademic Standards\n\nSection 1: The School ... for Tuesday will be moved to Wednesday and so on.', 'PART II\nAcademic Standards\n\nSection 4: Attendance ...ents/pupils are expected to turn on their cameras.', 'PART IV\nStudent Services\n\nSection 1: Guidance, Cou...foam containers are not allowed inside the campus.', 'PART I\nGeneral Policies and Procedures\n\nSection 7:...coach is physically present with the team or club.']
+Response: The school year usually starts in June and ends in March.
+Reference Answer: The school year starts in June and ends in March.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 1.0
+Answer Relevancy Score: 0.9999498344028885
+===================================
+
+===================================
+Entry Number: 12
+Testing Time: 20260103_115901
+Time Used for Evaluation: 40.22 seconds
+-----------------------------------
+User Input: What time do Senior High School (SHS) classes end?
+Retrieved Contexts: ['PART II\nAcademic Standards\n\nSection 1: The School ... for Tuesday will be moved to Wednesday and so on.', 'PART II\nAcademic Standards\n\nSection 4: Attendance ...ents/pupils are expected to turn on their cameras.', 'PART I\nGeneral Policies and Procedures\n\nSection 7:...coach is physically present with the team or club.', 'PART II\nAcademic Standards\n\nSection 8: Promotion, ...Tasks will be assigned by the teacher accordingly.']
+Response: Senior High School (SHS) classes end at 04:30 p.m.
+Reference Answer: Senior High School (SHS) class hours are 07:15 a.m. – 04:30 p.m.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 0.67
+Answer Relevancy Score: 0.999941306843677
+===================================
+
+===================================
+Entry Number: 13
+Testing Time: 20260103_115943
+Time Used for Evaluation: 46.05 seconds
+-----------------------------------
+User Input: What happens if a student exceeds 20% absences in a school year?
+Retrieved Contexts: ['PART II\nAcademic Standards\n\nSection 4: Attendance ...ents/pupils are expected to turn on their cameras.', 'PART VI\nCode of Discipline\n\nSection 9: Minor Offen...r situations determined by the school authorities.', "PART VI\nCode of Discipline\n\nThe school's Code of D...from all public or private schools in the country.", 'PART II\nAcademic Standards\n\nSection 7: Written Wor...ed by their respective instructors and/or coaches.']
+Response: A student who exceeds 20% absences in a school year will receive a failing grade for the course and be automatically dropped from the class roll.
+Reference Answer: A pupil / student, who has exceeded the allowed number of absences, will be automatically dropped from the roll.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 0.0
+Answer Relevancy Score: 0.991313034720275
+===================================
+
+===================================
+Entry Number: 14
+Testing Time: 20260103_120031
+Time Used for Evaluation: 62.64 seconds
+-----------------------------------
+User Input: When is an absence considered excused or unexcused?
+Retrieved Contexts: ['PART II\nAcademic Standards\n\nSection 4: Attendance ...ents/pupils are expected to turn on their cameras.', 'PART II\nAcademic Standards\n\nSection 7: Written Wor...ed by their respective instructors and/or coaches.', 'PART VI\nCode of Discipline\n\nSection 9: Minor Offen...r situations determined by the school authorities.', "PART VI\nCode of Discipline\n\nThe school's Code of D...from all public or private schools in the country."]
+Response: An absence is classified as excused or unexcused by the Discipline Office after the student submits a letter of excuse from a parent or guardian. Excused absences include those due to sickness or personal reasons, while all others are typically unexcused.
+Reference Answer: After submission of the excuse letter, the Discipline Office shall determine whether the absence is excused or not.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 0.33
+Answer Relevancy Score: 0.9623820918798561
+===================================
+
+===================================
+Entry Number: 15
+Testing Time: 20260103_120135
+Time Used for Evaluation: 36.23 seconds
+-----------------------------------
+User Input: What is the passing grade for report cards?
+Retrieved Contexts: ['PART II\nAcademic Standards\n\nSection 6: Grading Sys...school year is released only to the pupil/student.', 'PART II\nAcademic Standards\n\nSection 8: Promotion, ...Tasks will be assigned by the teacher accordingly.', 'PART VII\nHonors and Awards\n\nThe school recognizes ...d not have been served a major or a minor offense.', 'PART I\nGeneral Policies and Procedures\n\nSection 1:... like change in address and / or telephone number.']
+Response: 报告卡的及格分数是75%。
+Reference Answer: The passing grade in the report card is 75%.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 1.0
+Answer Relevancy Score: 0.9412512163433032
+===================================
+
+===================================
+Entry Number: 16
+Testing Time: 20260103_120213
+Time Used for Evaluation: 57.72 seconds
+-----------------------------------
+User Input: When are Grade School and Junior High School parents expected to come to school to receive report cards?
+Retrieved Contexts: ['PART IV\nStudent Services\n\nSection 1: Guidance, Cou...foam containers are not allowed inside the campus.', 'PART I\nGeneral Policies and Procedures\n\nSection 1:... like change in address and / or telephone number.', 'PART II\nAcademic Standards\n\nSection 1: The School ... for Tuesday will be moved to Wednesday and so on.', 'Student Handbook\nFOREWORD\n\nThis handbook contains ...nd be familiar with the contents of this handbook.']
+Response: Parents are expected to come to school for a One-on-One Parent-Teacher Conference to receive report cards. Please make an appointment in advance through the Office of Student Affairs (OSA) to schedule your conference.
+Reference Answer: After the First and Third Grading Periods (GS & JHS); mid-term (SHS), parents / guardians are expected to come to school for the distribution of report cards and the Parent-Teacher Conference (PTC).
+-----------------------------------
+Faithfulness Score: 0.5
+Factual Correctness Score: 0.2
+Answer Relevancy Score: 0.7091124091362682
+===================================
+
+===================================
+Entry Number: 17
+Testing Time: 20260103_120312
+Time Used for Evaluation: 44.26 seconds
+-----------------------------------
+User Input: When is the schedule for Quarterly Assessment/Midterm & Final Exams announced?
+Retrieved Contexts: ['PART II\nAcademic Standards\n\nSection 7: Written Wor...ed by their respective instructors and/or coaches.', 'PART II\nAcademic Standards\n\nSection 1: The School ... for Tuesday will be moved to Wednesday and so on.', 'PART IV\nStudent Services\n\nSection 1: Guidance, Cou...foam containers are not allowed inside the campus.', 'PART II\nAcademic Standards\n\nSection 4: Attendance ...ents/pupils are expected to turn on their cameras.']
+Response: The schedule for Quarterly Assessment/Midterm & Final Exams will be announced at least one week before the actual exam date and will be posted on designated bulletin boards.
+Reference Answer: The schedule of Quarterly Assessment/Midterm & Final Exams will be announced at least one (1) week before the actual exam date.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 0.67
+Answer Relevancy Score: 0.981848824564505
+===================================
+
+===================================
+Entry Number: 18
+Testing Time: 20260103_120358
+Time Used for Evaluation: 65.14 seconds
+-----------------------------------
+User Input: What is the consequence if a pupil is involved in cheating during an exam?
+Retrieved Contexts: ['PART VI\nCode of Discipline\n\nSection 9: Minor Offen...r situations determined by the school authorities.', 'PART II\nAcademic Standards\n\nSection 7: Written Wor...ed by their respective instructors and/or coaches.', "PART VI\nCode of Discipline\n\nThe school's Code of D...from all public or private schools in the country.", 'PART II\nAcademic Standards\n\nSection 4: Attendance ...ents/pupils are expected to turn on their cameras.']
+Response: If a pupil is involved in cheating during an exam, they will automatically receive the lowest possible grade for that test, be issued a Major Offense Notice, and have points deducted from their conduct grade. Suspension, exclusion, or expulsion may also be imposed.
+Reference Answer: A pupil / student, who is involved in cheating, shall automatically receive the lowest possible grade for that particular test. In addition, he / she shall be given a major offense notice and a conduct grade deduction.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 0.67
+Answer Relevancy Score: 0.981815308477142
+===================================
+
+===================================
+Entry Number: 19
+Testing Time: 20260103_120505
+Time Used for Evaluation: 65.94 seconds
+-----------------------------------
+User Input: What happens to the PE grades of students in the Dance Troupe or Choir?
+Retrieved Contexts: ['If a contest involves different subject areas, (i....he option to take the fourth quarterly assessment.', 'PART V\nStudent Activities: Programs and Guidelines...Chess, Volleyball, Pep Squad, Wushu, and Swimming.', 'PART II\nAcademic Standards\n\nSection 8: Promotion, ...Tasks will be assigned by the teacher accordingly.', "PART VI\nCode of Discipline\n\nThe school's Code of D...from all public or private schools in the country."]
+Response: Students who are members of the Dance Troupe or Choir (Glee Club) are exempted from regular PE classes. Their PE grades will be provided by their respective instructors or coaches.
+Reference Answer: Varsity performers (Dance Troupes, Glee Club/Choir, Chinese Orchestra, Theater Guild) will be exempted from their PE classes. Their PE grades will be provided by their respective instructors and/or coaches.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 0.57
+Answer Relevancy Score: 0.6187403592978319
+===================================
+
+===================================
+Entry Number: 20
+Testing Time: 20260103_120613
+Time Used for Evaluation: 41.40 seconds
+-----------------------------------
+User Input: What incentive do non-academic contest winners receive?
+Retrieved Contexts: ['If a contest involves different subject areas, (i....he option to take the fourth quarterly assessment.', 'PART II\nAcademic Standards\n\nSection 7: Written Wor...ed by their respective instructors and/or coaches.', 'PART VII\nHonors and Awards\n\nSection 6: Special Awa...ions of the Honors and Awards Committee are final.', 'PART VII\nHonors and Awards\n\nThe school recognizes ...d not have been served a major or a minor offense.']
+Response: Non-academic contest winners will receive additional point/s in their Conduct grade.
+Reference Answer: All non-academic winners will be given additional point/s in Conduct.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 1.0
+Answer Relevancy Score: 0.8655169770226186
+===================================
+
+===================================
+Entry Number: 21
+Testing Time: 20260103_120656
+Time Used for Evaluation: 53.93 seconds
+-----------------------------------
+User Input: When does a Grade School or Junior High School student need to take remedial classes?
+Retrieved Contexts: ['PART II\nAcademic Standards\n\nSection 8: Promotion, ...Tasks will be assigned by the teacher accordingly.', 'PART IV\nStudent Services\n\nSection 1: Guidance, Cou...foam containers are not allowed inside the campus.', 'PART II\nAcademic Standards\n\nSection 1: The School ... for Tuesday will be moved to Wednesday and so on.', 'PART II\nAcademic Standards\n\nSection 4: Attendance ...ents/pupils are expected to turn on their cameras.']
+Response: A Grade School or Junior High School student needs to take remedial classes if they obtain 1 or 2 failing final grades in any subject areas, or if they fail in any component subject.
+Reference Answer: Students who obtain 1 or 2 failing grades in any subject areas will be required to take remedial classes.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 0.8
+Answer Relevancy Score: 0.976064904161238
+===================================
+
+===================================
+Entry Number: 22
+Testing Time: 20260103_120752
+Time Used for Evaluation: 42.79 seconds
+-----------------------------------
+User Input: What uniform do students wear on scheduled Physical Education days?
+Retrieved Contexts: ['PART I\nGeneral Policies and Procedures\n\nSection 7:...coach is physically present with the team or club.', 'PART II\nAcademic Standards\n\nSection 8: Promotion, ...Tasks will be assigned by the teacher accordingly.', 'PART V\nStudent Activities: Programs and Guidelines...Chess, Volleyball, Pep Squad, Wushu, and Swimming.', 'PART II\nAcademic Standards\n\nSection 1: The School ... for Tuesday will be moved to Wednesday and so on.']
+Response: Students wear their proper Physical Education (P.E.) uniform on their scheduled P.E. days.
+Reference Answer: Pupils / Students are required to wear their P.E. uniforms during their scheduled P.E. days.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 1.0
+Answer Relevancy Score: 0.8861010633118612
+===================================
+
+===================================
+Entry Number: 23
+Testing Time: 20260103_120836
+Time Used for Evaluation: 65.32 seconds
+-----------------------------------
+User Input: What is the dress code for parents when entering the school campus?
+Retrieved Contexts: ['PART I\nGeneral Policies and Procedures\n\nSection 7:...coach is physically present with the team or club.', 'PART VI\nCode of Discipline\n\nSection 12: Due Proces... are strictly prohibited inside the school campus.', 'Student Handbook\nFOREWORD\n\nThis handbook contains ...nd be familiar with the contents of this handbook.', 'PART I\nGeneral Policies and Procedures\n\nSection 1:... like change in address and / or telephone number.']
+Response: Parents are required to wear proper attire when entering the school campus. Shorts, undershirts, slippers, and sleeveless shirts or spaghetti straps are strictly prohibited.
+Reference Answer: Parents are required to wear proper attire as prescribed by the school when entering the campus. Shorts, undershirts, slippers, sleeveless shirts/spaghetti straps are strictly prohibited inside the school campus.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 0.92
+Answer Relevancy Score: 0.9240953529445933
+===================================
+
+===================================
+Entry Number: 24
+Testing Time: 20260103_120943
+Time Used for Evaluation: 68.07 seconds
+-----------------------------------
+User Input: When can parents or visitors see their children during class hours?
+Retrieved Contexts: ['PART II\nAcademic Standards\n\nSection 1: The School ... for Tuesday will be moved to Wednesday and so on.', 'PART II\nAcademic Standards\n\nSection 4: Attendance ...ents/pupils are expected to turn on their cameras.', 'PART VI\nCode of Discipline\n\nSection 12: Due Proces... are strictly prohibited inside the school campus.', 'PART IV\nStudent Services\n\nSection 1: Guidance, Cou...foam containers are not allowed inside the campus.']
+Response: Parents or visitors may see their children during class hours only with permission from the Vice President, or in their absence, the Head Disciplinarian.
+Reference Answer: Parents/Visitors are not allowed to see their children or any teacher during class hours without permission from the Vice President, and in his/her absence, the Head Disciplinarian.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 0.67
+Answer Relevancy Score: 0.9999424932294572
+===================================
+
+===================================
+Entry Number: 25
+Testing Time: 20260103_121053
+Time Used for Evaluation: 34.72 seconds
+-----------------------------------
+User Input: What is the passing conduct grade?
+Retrieved Contexts: ["PART VI\nCode of Discipline\n\nThe school's Code of D...from all public or private schools in the country.", 'PART II\nAcademic Standards\n\nSection 8: Promotion, ...Tasks will be assigned by the teacher accordingly.', 'PART VII\nHonors and Awards\n\nThe school recognizes ...d not have been served a major or a minor offense.', 'PART II\nAcademic Standards\n\nSection 6: Grading Sys...school year is released only to the pupil/student.']
+Response: The passing conduct grade is C.
+Reference Answer: The passing conduct grade is C.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 1.0
+Answer Relevancy Score: 0.9999482280321675
+===================================
+
+===================================
+Entry Number: 26
+Testing Time: 20260103_121129
+Time Used for Evaluation: 46.46 seconds
+-----------------------------------
+User Input: When is a student given a Minor Offense Notice for tardiness?
+Retrieved Contexts: ['PART VI\nCode of Discipline\n\nSection 9: Minor Offen...r situations determined by the school authorities.', "PART VI\nCode of Discipline\n\nThe school's Code of D...from all public or private schools in the country.", 'PART II\nAcademic Standards\n\nSection 4: Attendance ...ents/pupils are expected to turn on their cameras.', 'PART VI\nCode of Discipline\n\nSection 12: Due Proces... are strictly prohibited inside the school campus.']
+Response: A student is given a Minor Offense Notice when they have accumulated a total of ten (10) tardiness within a quarter.
+Reference Answer: A pupil / student, who has accumulated a total number of ten (10) tardiness within a quarter will be given a minor offense notice.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 1.0
+Answer Relevancy Score: 0.904699541982524
+===================================
+
+===================================
+Entry Number: 27
+Testing Time: 20260103_121217
+Time Used for Evaluation: 48.08 seconds
+-----------------------------------
+User Input: What is the minimum conduct point deduction for a Major Offense?
+Retrieved Contexts: ['PART VI\nCode of Discipline\n\nSection 9: Minor Offen...r situations determined by the school authorities.', "PART VI\nCode of Discipline\n\nThe school's Code of D...from all public or private schools in the country.", 'PART II\nAcademic Standards\n\nSection 4: Attendance ...ents/pupils are expected to turn on their cameras.', 'PART VI\nCode of Discipline\n\nSection 12: Due Proces... are strictly prohibited inside the school campus.']
+Response: The minimum conduct point deduction for a Major Offense is seven (7) points.
+Reference Answer: For major offenses, a minimum of seven (7) points to a maximum of twelve (12) points may be deducted from the conduct grade.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 0.8
+Answer Relevancy Score: 0.9999615119417751
+===================================
+
+===================================
+Entry Number: 28
+Testing Time: 20260103_121307
+Time Used for Evaluation: 46.52 seconds
+-----------------------------------
+User Input: What penalty is given for littering?
+Retrieved Contexts: ['PART VI\nCode of Discipline\n\nSection 9: Minor Offen...r situations determined by the school authorities.', "PART VI\nCode of Discipline\n\nThe school's Code of D...from all public or private schools in the country.", 'PART II\nAcademic Standards\n\nSection 4: Attendance ...ents/pupils are expected to turn on their cameras.', 'PART VI\nCode of Discipline\n\nSection 12: Due Proces... are strictly prohibited inside the school campus.']
+Response: Littering will result in a Minor Offense Notice, with a deduction of 1 to 6 points from the conduct grade.
+Reference Answer: Littering is an offense that will result in a Minor Offense Notice. Depending on the gravity, a minimum of one (1) point to a maximum of six (6) points will be deducted from the conduct grade.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 1.0
+Answer Relevancy Score: 0.8004717845738778
+===================================
+
+===================================
+Entry Number: 29
+Testing Time: 20260103_121355
+Time Used for Evaluation: 63.67 seconds
+-----------------------------------
+User Input: What is the purpose of the student handbook?
+Retrieved Contexts: ['Student Handbook\nFOREWORD\n\nThis handbook contains ...nd be familiar with the contents of this handbook.', 'PART I\nGeneral Policies and Procedures\n\nSection 1:... like change in address and / or telephone number.', 'PART IV\nStudent Services\n\nSection 1: Guidance, Cou...foam containers are not allowed inside the campus.', 'PART VI\nCode of Discipline\n\nSection 9: Minor Offen...r situations determined by the school authorities.']
+Response: The purpose of the student handbook is to outline the academic policies and behavioral guidelines for students, ensuring they understand and abide by the school's rules and regulations. It also serves as a reference for parents or guardians to support their children's adherence to these standards.
+Reference Answer: The student handbook contains the different academic policies, which all pupils/students are expected to know and observe.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 0.67
+Answer Relevancy Score: 0.9999608448723385
+===================================
+
+===================================
+Entry Number: 30
+Testing Time: 20260103_121500
+Time Used for Evaluation: 46.00 seconds
+-----------------------------------
+User Input: Where do applicants for admission go to apply?
+Retrieved Contexts: ['PART I\nGeneral Policies and Procedures\n\nSection 1:... like change in address and / or telephone number.', 'PART IV\nStudent Services\n\nSection 1: Guidance, Cou...foam containers are not allowed inside the campus.', 'PART V\nStudent Activities: Programs and Guidelines...Chess, Volleyball, Pep Squad, Wushu, and Swimming.', 'PART VI\nCode of Discipline\n\nSection 12: Due Proces... are strictly prohibited inside the school campus.']
+Response: Applicants for admission must apply in person at the Office of Student Affairs (OSA) or the Kinder Office.
+Reference Answer: All applicants must apply in person at the Office of Student Affairs (OSA)/Kinder Office.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 1.0
+Answer Relevancy Score: 0.9673317371956429
+===================================
+
+===================================
+Entry Number: 31
+Testing Time: 20260103_121548
+Time Used for Evaluation: 45.84 seconds
+-----------------------------------
+User Input: What happens to the reservation fee after it is paid?
+Retrieved Contexts: ['PART I\nGeneral Policies and Procedures\n\nSection 1:... like change in address and / or telephone number.', 'PART IV\nStudent Services\n\nSection 1: Guidance, Cou...foam containers are not allowed inside the campus.', 'PART II\nAcademic Standards\n\nSection 4: Attendance ...ents/pupils are expected to turn on their cameras.', 'PART II\nAcademic Standards\n\nSection 1: The School ... for Tuesday will be moved to Wednesday and so on.']
+Response: 根据学校规定，您支付的预约费是不可退还的，但可以在您正式注册时抵扣部分学费。
+Reference Answer: The reservation fee is non-refundable but is deductible from the tuition fee.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 1.0
+Answer Relevancy Score: 0.6390867235860149
+===================================
+
+===================================
+Entry Number: 32
+Testing Time: 20260103_121636
+Time Used for Evaluation: 45.31 seconds
+-----------------------------------
+User Input: What is the curfew time on campus?
+Retrieved Contexts: ['PART I\nGeneral Policies and Procedures\n\nSection 7:...coach is physically present with the team or club.', 'PART II\nAcademic Standards\n\nSection 4: Attendance ...ents/pupils are expected to turn on their cameras.', 'PART II\nAcademic Standards\n\nSection 1: The School ... for Tuesday will be moved to Wednesday and so on.', 'PART VI\nCode of Discipline\n\nSection 9: Minor Offen...r situations determined by the school authorities.']
+Response: The campus curfew is at 6:30 p.m.
+Reference Answer: To ensure the safety and order of the campus, a school-wide curfew is imposed starting at 6:30 p.m.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 0.4
+Answer Relevancy Score: 0.9769940831915033
+===================================
+
+===================================
+Entry Number: 33
+Testing Time: 20260103_121723
+Time Used for Evaluation: 44.39 seconds
+-----------------------------------
+User Input: Who is allowed to bring laptops or tablets to school?
+Retrieved Contexts: ['PART III\nMiscellaneous Guidelines\n\nSection 1: Libr...e the console without the approval of the teacher.', 'PART I\nGeneral Policies and Procedures\n\nSection 7:...coach is physically present with the team or club.', 'PART VI\nCode of Discipline\n\nSection 9: Minor Offen...r situations determined by the school authorities.', 'PART II\nAcademic Standards\n\nSection 4: Attendance ...ents/pupils are expected to turn on their cameras.']
+Response: Only Senior High School (SHS) students are allowed to bring laptops or tablets to school.
+Reference Answer: Only SHS students may bring laptops/tablets to school.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 1.0
+Answer Relevancy Score: 0.9999604343748074
+===================================
+
+===================================
+Entry Number: 34
+Testing Time: 20260103_121809
+Time Used for Evaluation: 43.94 seconds
+-----------------------------------
+User Input: What is the minimum conduct grade needed to qualify for GS & JHS Section Honors?
+Retrieved Contexts: ['PART VII\nHonors and Awards\n\nThe school recognizes ...d not have been served a major or a minor offense.', 'PART VII\nHonors and Awards\n\nSection 6: Special Awa...ions of the Honors and Awards Committee are final.', "PART VI\nCode of Discipline\n\nThe school's Code of D...from all public or private schools in the country.", 'PART II\nAcademic Standards\n\nSection 8: Promotion, ...Tasks will be assigned by the teacher accordingly.']
+Response: To qualify for GS & JHS Section Honors, the minimum required conduct grade is B-.
+Reference Answer: To qualify for the Section Honors, a pupil / student should have a conduct grade of at least B-.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 1.0
+Answer Relevancy Score: 0.9930831607047633
+===================================
+
+===================================
+Entry Number: 35
+Testing Time: 20260103_121854
+Time Used for Evaluation: 41.82 seconds
+-----------------------------------
+User Input: When are Excellence in Academics awards given for Kindergarten?
+Retrieved Contexts: ['PART VII\nHonors and Awards\n\nThe school recognizes ...d not have been served a major or a minor offense.', 'PART VII\nHonors and Awards\n\nSection 6: Special Awa...ions of the Honors and Awards Committee are final.', 'If a contest involves different subject areas, (i....he option to take the fourth quarterly assessment.', 'PART II\nAcademic Standards\n\nSection 7: Written Wor...ed by their respective instructors and/or coaches.']
+Response: The Excellence in Academics award for Kindergarten is given at the end of every school year.
+Reference Answer: Excellence in Academics for Kinder is awarded at the end of every school year.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 1.0
+Answer Relevancy Score: 0.9777917816151346
+===================================
+
+===================================
+Entry Number: 36
+Testing Time: 20260103_121938
+Time Used for Evaluation: 63.08 seconds
+-----------------------------------
+User Input: What is the PCC GOLD award?
+Retrieved Contexts: ['PART VII\nHonors and Awards\n\nSection 6: Special Awa...ions of the Honors and Awards Committee are final.', 'PCC stands for "Philippine Cultural College"\nPCC指的是"菲律宾侨中学院"', 'PART V\nStudent Activities: Programs and Guidelines...Chess, Volleyball, Pep Squad, Wushu, and Swimming.', 'PCC Vision\n\nOur Vision\n\nA responsive Chinese-Filip...的学校，为莘莘学子提供优质教育，使他们得以全面发展，成为具有全球竞争能力并以祖先传统文化为傲的人才。']
+Response: The PCC GOLD award is the highest recognition given to a Grade 12 student who excels in academics, curricular, and extracurricular activities, selected from the pool of Great Distinction awardees.
+Reference Answer: PCC GOLD is the ultimate recognition given to a student from a pool of Great Distinction awardees. The recipient should excel in academics and in curricular and extracurricular activities.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 0.33
+Answer Relevancy Score: 0.9476457512634395
+===================================
+
+===================================
+Entry Number: 37
+Testing Time: 20260103_122043
+Time Used for Evaluation: 47.62 seconds
+-----------------------------------
+User Input: When is the Excellence in Conduct award given for Grade 1 to 5 students?
+Retrieved Contexts: ['PART VII\nHonors and Awards\n\nThe school recognizes ...d not have been served a major or a minor offense.', 'PART VII\nHonors and Awards\n\nSection 6: Special Awa...ions of the Honors and Awards Committee are final.', "PART VI\nCode of Discipline\n\nThe school's Code of D...from all public or private schools in the country.", 'If a contest involves different subject areas, (i....he option to take the fourth quarterly assessment.']
+Response: The Excellence in Conduct award for Grade 1 to 5 students is given at the end of the school year during the Recognition Day.
+Reference Answer: Excellence in Conduct award is given at the end of the school year during the Recognition Day.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 0.8
+Answer Relevancy Score: 0.9950900439407792
+===================================
+
+===================================
+Entry Number: 38
+Testing Time: 20260103_122132
+Time Used for Evaluation: 46.56 seconds
+-----------------------------------
+User Input: What are the opening hours of the library for Grade School students on a Friday?
+Retrieved Contexts: ['PART III\nMiscellaneous Guidelines\n\nSection 1: Libr...e the console without the approval of the teacher.', 'PART II\nAcademic Standards\n\nSection 1: The School ... for Tuesday will be moved to Wednesday and so on.', 'PART IV\nStudent Services\n\nSection 1: Guidance, Cou...foam containers are not allowed inside the campus.', 'PART I\nGeneral Policies and Procedures\n\nSection 7:...coach is physically present with the team or club.']
+Response: The library is open for Grade School students from 7:00 a.m. to 5:30 p.m. on Fridays.
+Reference Answer: For Grade School students, the library is open from 7:00 a.m. to 5:30 p.m. from Mondays to Fridays.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 0.8
+Answer Relevancy Score: 0.9722604551833038
+===================================
+
+===================================
+Entry Number: 39
+Testing Time: 20260103_122221
+Time Used for Evaluation: 42.28 seconds
+-----------------------------------
+User Input: Where should students leave their bags when using the library?
+Retrieved Contexts: ['PART III\nMiscellaneous Guidelines\n\nSection 1: Libr...e the console without the approval of the teacher.', 'PART I\nGeneral Policies and Procedures\n\nSection 1:... like change in address and / or telephone number.', 'PART I\nGeneral Policies and Procedures\n\nSection 7:...coach is physically present with the team or club.', 'Student Handbook\nFOREWORD\n\nThis handbook contains ...nd be familiar with the contents of this handbook.']
+Response: Students should leave their bags at the designated places outside the library.
+Reference Answer: Bags are not permitted inside the library. Pupils / students may leave their bags at designated places.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 0.67
+Answer Relevancy Score: 0.9825590599547649
+===================================
+
+===================================
+Entry Number: 40
+Testing Time: 20260103_122305
+Time Used for Evaluation: 47.61 seconds
+-----------------------------------
+User Input: What does the school hymn say the Alma Mater does?
+Retrieved Contexts: ['校歌 (Awiting Pampaaralan / School Hymn)\n\nTraditiona...urturing generations as vanguards of civilization.', 'PART I\nGeneral Policies and Procedures\n\nSection 7:...coach is physically present with the team or club.', 'Student Handbook\nFOREWORD\n\nThis handbook contains ...nd be familiar with the contents of this handbook.', 'PART V\nStudent Activities: Programs and Guidelines...Chess, Volleyball, Pep Squad, Wushu, and Swimming.']
+Response: The school hymn says our Alma Mater extends her guiding hands to nurture generations as vanguards of civilization.
+Reference Answer: Our Alma Mater extends her guiding hands nurturing generations as vanguards of civilization.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 1.0
+Answer Relevancy Score: 0.9608731349746473
+===================================
+
+===================================
+Entry Number: 41
+Testing Time: 20260103_122354
+Time Used for Evaluation: 56.47 seconds
+-----------------------------------
+User Input: What are the two major organizations in PCC?
+Retrieved Contexts: ['PART V\nStudent Activities: Programs and Guidelines...Chess, Volleyball, Pep Squad, Wushu, and Swimming.', 'PCC stands for "Philippine Cultural College"\nPCC指的是"菲律宾侨中学院"', 'PCC Mission\n\nOur Mission\n\nFormation of well-rounde...ng times.\n\n学校使命\n本校旨在培养全面发展、能适应时代需求并以祖先传统文化为傲的菲华青年。', 'PCC Vision\n\nOur Vision\n\nA responsive Chinese-Filip...的学校，为莘莘学子提供优质教育，使他们得以全面发展，成为具有全球竞争能力并以祖先传统文化为傲的人才。']
+Response: The two major organizations in PCC are the school paper (Tanglaw for Manila or Scribe/Ang Patnubay for Caloocan) and the Student Council.
+Reference Answer: The school paper, Tanglaw for the Manila campus and Scribe/Ang Patnubay for the Caloocan campus, and the Student Council.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 0.8
+Answer Relevancy Score: 0.9999568910280235
+===================================
+
+===================================
+Entry Number: 42
+Testing Time: 20260103_122452
+Time Used for Evaluation: 46.79 seconds
+-----------------------------------
+User Input: When are students required to join a club?
+Retrieved Contexts: ['PART V\nStudent Activities: Programs and Guidelines...Chess, Volleyball, Pep Squad, Wushu, and Swimming.', 'PART I\nGeneral Policies and Procedures\n\nSection 1:... like change in address and / or telephone number.', 'PART I\nGeneral Policies and Procedures\n\nSection 7:...coach is physically present with the team or club.', 'PART IV\nStudent Services\n\nSection 1: Guidance, Cou...foam containers are not allowed inside the campus.']
+Response: Students are required to join a club starting in Grade 4.
+Reference Answer: Starting grade four, each PCC student is required to choose from among the list of co-curricular and extra-curricular clubs a club he/she wishes to join for the year.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 0.33
+Answer Relevancy Score: 0.9632555345071978
+===================================
+
+===================================
+Entry Number: 43
+Testing Time: 20260103_122541
+Time Used for Evaluation: 46.93 seconds
+-----------------------------------
+User Input: Where should inquiries for tutorial services be made?
+Retrieved Contexts: ['PART IV\nStudent Services\n\nSection 1: Guidance, Cou...foam containers are not allowed inside the campus.', 'PART I\nGeneral Policies and Procedures\n\nSection 1:... like change in address and / or telephone number.', 'PART III\nMiscellaneous Guidelines\n\nSection 1: Libr...e the console without the approval of the teacher.', 'If a contest involves different subject areas, (i....he option to take the fourth quarterly assessment.']
+Response: Inquiries and applications for tutorial services should be made directly with the Office of Student Affairs (OSA).
+Reference Answer: Inquiries and applications for tutorial services must be made directly with the Office of Student Affairs (OSA).
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 1.0
+Answer Relevancy Score: 0.9483189293440577
+===================================
+
+===================================
+Entry Number: 44
+Testing Time: 20260103_122629
+Time Used for Evaluation: 53.48 seconds
+-----------------------------------
+User Input: When are tutorial sessions usually held?
+Retrieved Contexts: ['PART IV\nStudent Services\n\nSection 1: Guidance, Cou...foam containers are not allowed inside the campus.', 'PART II\nAcademic Standards\n\nSection 4: Attendance ...ents/pupils are expected to turn on their cameras.', 'PART II\nAcademic Standards\n\nSection 7: Written Wor...ed by their respective instructors and/or coaches.', 'PART II\nAcademic Standards\n\nSection 1: The School ... for Tuesday will be moved to Wednesday and so on.']
+Response: Tutorial sessions are usually held from Mondays to Fridays at 4:30 p.m. onwards during regular school days.
+Reference Answer: Tutorial sessions are held Mondays to Fridays at 4:30 p.m. onwards during regular school days.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 1.0
+Answer Relevancy Score: 0.9999999999999991
+===================================
+
+===================================
+Entry Number: 45
+Testing Time: 20260103_122724
+Time Used for Evaluation: 50.98 seconds
+-----------------------------------
+User Input: What time is the school clinic open on a regular Friday?
+Retrieved Contexts: ['PART IV\nStudent Services\n\nSection 1: Guidance, Cou...foam containers are not allowed inside the campus.', 'PART II\nAcademic Standards\n\nSection 1: The School ... for Tuesday will be moved to Wednesday and so on.', 'PART II\nAcademic Standards\n\nSection 4: Attendance ...ents/pupils are expected to turn on their cameras.', 'PART III\nMiscellaneous Guidelines\n\nSection 1: Libr...e the console without the approval of the teacher.']
+Response: The school clinic is open from 7:00 a.m. to 6:30 p.m. on a regular Friday.
+Reference Answer: The clinic is open from 7:00 a.m. to 6:30 p.m. from Mondays to Fridays.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 0.33
+Answer Relevancy Score: 0.9724738652723214
+===================================
+
+===================================
+Entry Number: 46
+Testing Time: 20260103_122817
+Time Used for Evaluation: 38.82 seconds
+-----------------------------------
+User Input: What is the monthly theme for August?
+Retrieved Contexts: ['OUR MOST CHERISHED VALUES (CORE VALUES)\n勤 诚 勇 爱 公\n...的菲华社会，也代表着求知欲强的侨中人。\n\n一对海鸥象征着进步的思想、正确的教育观，以摆脱无知的束缚。', 'PART II\nAcademic Standards\n\nSection 7: Written Wor...ed by their respective instructors and/or coaches.', 'PART I\nGeneral Policies and Procedures\n\nSection 7:...coach is physically present with the team or club.', 'PART II\nAcademic Standards\n\nSection 4: Attendance ...ents/pupils are expected to turn on their cameras.']
+Response: The monthly theme for August is Loyalty and Patriotism.
+Reference Answer: August is Loyalty and Patriotism.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 1.0
+Answer Relevancy Score: 0.9999596945945424
+===================================
+
+===================================
+Entry Number: 47
+Testing Time: 20260103_122857
+Time Used for Evaluation: 63.76 seconds
+-----------------------------------
+User Input: What do the school colors of green and yellow signify?
+Retrieved Contexts: ['OUR MOST CHERISHED VALUES (CORE VALUES)\n勤 诚 勇 爱 公\n...的菲华社会，也代表着求知欲强的侨中人。\n\n一对海鸥象征着进步的思想、正确的教育观，以摆脱无知的束缚。', 'PART I\nGeneral Policies and Procedures\n\nSection 7:...coach is physically present with the team or club.', 'PART V\nStudent Activities: Programs and Guidelines...Chess, Volleyball, Pep Squad, Wushu, and Swimming.', 'Student Handbook\nFOREWORD\n\nThis handbook contains ...nd be familiar with the contents of this handbook.']
+Response: The school color green signifies the development of progressive thinking, learning, and attitude in education. The color yellow symbolizes the cultivation of noble spirit, character, and personality.
+Reference Answer: GREEN: Signifies the development of progressive thinking, learning, and attitude in education. YELLOW: Symbolizes the cultivation of noble spirit, character, and personality.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 1.0
+Answer Relevancy Score: 0.975921754076194
+===================================
+
+===================================
+Entry Number: 48
+Testing Time: 20260103_123003
+Time Used for Evaluation: 50.75 seconds
+-----------------------------------
+User Input: What does the Lighthouse in the school seal represent?
+Retrieved Contexts: ['OUR MOST CHERISHED VALUES (CORE VALUES)\n勤 诚 勇 爱 公\n...的菲华社会，也代表着求知欲强的侨中人。\n\n一对海鸥象征着进步的思想、正确的教育观，以摆脱无知的束缚。', 'PART I\nGeneral Policies and Procedures\n\nSection 7:...coach is physically present with the team or club.', 'PART I\nGeneral Policies and Procedures\n\nSection 1:... like change in address and / or telephone number.', 'PART II\nAcademic Standards\n\nSection 1: The School ... for Tuesday will be moved to Wednesday and so on.']
+Response: The Lighthouse in the school seal represents Philippine Cultural College as a refuge for knowledge-seekers and a solace for students who desire to learn.
+Reference Answer: The Lighthouse represents Philippine Cultural College, the refuge of Knowledge-Seekers, the solace of the students, who desire to Learn.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 1.0
+Answer Relevancy Score: 0.872212751533679
+===================================
+
+===================================
+Entry Number: 49
+Testing Time: 20260103_123055
+Time Used for Evaluation: 64.45 seconds
+-----------------------------------
+User Input: What is the vision of PCC?
+Retrieved Contexts: ['PCC Vision\n\nOur Vision\n\nA responsive Chinese-Filip...的学校，为莘莘学子提供优质教育，使他们得以全面发展，成为具有全球竞争能力并以祖先传统文化为傲的人才。', 'PCC Mission\n\nOur Mission\n\nFormation of well-rounde...ng times.\n\n学校使命\n本校旨在培养全面发展、能适应时代需求并以祖先传统文化为傲的菲华青年。', 'PCC stands for "Philippine Cultural College"\nPCC指的是"菲律宾侨中学院"', 'PCC School Objectives\n\nThe Kindergarten Objectives...作；\n\n    培养民主、平等、自立、自律、自觉及其它正确的观念，成为国家发展及进步正直有为的公民。']
+Response: The vision of Philippine Cultural College (PCC) is to be a responsive Chinese-Filipino institution that provides equal opportunity for excellent education, developing globally competitive learners who appreciate their cultural heritage and are proud of their identity.
+Reference Answer: A responsive Chinese-Filipino institution that provides equal opportunity for excellent education towards the total development of globally competitive learners appreciative of their cultural heritage and proud of their identity.
+-----------------------------------
+Faithfulness Score: 1.0
+Factual Correctness Score: 0.92
+Answer Relevancy Score: 0.8053571039843535
+===================================
+
+===================================
+Entry Number: 50
+Testing Time: 20260103_123201
+Time Used for Evaluation: 61.95 seconds
+-----------------------------------
+User Input: When can a Special Class Program student be exempted from the Fourth quarterly Math assessment?
+Retrieved Contexts: ['If a contest involves different subject areas, (i....he option to take the fourth quarterly assessment.', 'PART II\nAcademic Standards\n\nSection 7: Written Wor...ed by their respective instructors and/or coaches.', 'PART II\nAcademic Standards\n\nSection 8: Promotion, ...Tasks will be assigned by the teacher accordingly.', 'PART VII\nHonors and Awards\n\nThe school recognizes ...d not have been served a major or a minor offense.']
+Response: A Special Class Program student may be exempted from the Fourth quarterly Math assessment if he or she belongs to the top 50% of the class based on the average grade from the First, Second, and Third grading periods.
+Reference Answer: A student included in the Special Class Program may be exempted from the Fourth quarterly assessment in Math if he/she belongs to the top 50% of his/her class.
+-----------------------------------
+Faithfulness Score: 0.4
+Factual Correctness Score: 0.8
+Answer Relevancy Score: 0.9888759532149192
+===================================
+
